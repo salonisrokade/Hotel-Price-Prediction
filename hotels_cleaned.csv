@@ -1,0 +1,775 @@
+HotelName,Location,Price,Rating,DistanceFromCenter,RoomType,OriginalPrice,PricePerNight,Discount
+Nikki Beach Resort & Spa Dubai,Beach & Coast,2584.0,9.2,5.9,Covet King Room,3692.0,646.0,30.01
+Atana Hotel,Al Barsha,473.0,8.5,14.1,Standard Twin Room,473.0,118.25,0.0
+TRYP by Wyndham Dubai,Barsha Heights (Tecom),951.0,8.7,14.7,Tryp Room,951.0,237.75,0.0
+Golden Tulip Media Hotel,Barsha Heights (Tecom),642.0,8.5,14.2,Standard Room (Free transfers to the beach and selected malls & 20% discount on F&B & Spa),642.0,160.5,0.0
+Grand Mercure Dubai City,Garhoud,589.0,8.3,9.5,"Deluxe Twin Room - DXB Free Airport Drop-Off T1&T3 every hour (24/7), Free Shuttle Service to Dubai Mall - Burj Khalifa & La Mer Beach",589.0,147.25,0.0
+"Courtyard by Marriott Dubai, Al Barsha",Al Barsha,853.0,9.4,11.7,Standard King Room,853.0,213.25,0.0
+Sofitel Dubai The Obelisk,Bur Dubai,1439.0,9.1,6.1,Deluxe Room,1439.0,359.75,0.0
+Avani Ibn Battuta Dubai Hotel,Discovery Gardens,615.0,8.7,22.7,AVANI Superior Room,615.0,153.75,0.0
+Media One Hotel,Dubai Media City,1082.0,8.7,16.9,Standard Double Room,1082.0,270.5,0.0
+Holiday Inn Express Dubai Safa Park by IHG,Al Wasl,789.0,8.2,1.9,Standard King Room with Sofa Bed - Non-Smoking,789.0,197.25,0.0
+Urban Oasis - 2BR 6PAX - Infinity Pool & Near Metro,Business Bay,2454.0,8.2,1.8,Two-Bedroom Apartment with Water View,2454.0,613.5,0.0
+Hilton Dubai Palm Jumeirah,Palm Jumeirah,1602.0,9.1,16.1,Double Room with Two Double Beds and Balcony,1602.0,400.5,0.0
+Hampton By Hilton Dubai Al Barsha,Al Barsha,697.0,8.4,12.1,King Room - Non-Smoking,697.0,174.25,0.0
+Ibis Deira Creekside Dubai,Deira,489.0,7.8,8.9,Standard Twin Room,489.0,122.25,0.0
+"City Views 1BR with Balcony Near Dubai Water Canal, Zada Tower, Business Bay by Deluxe Holiday Homes",Business Bay,941.0,7.8,1.6,One-Bedroom Apartment,941.0,235.25,0.0
+"Radisson Blu Hotel, Dubai Media City",Dubai Media City,981.0,8.0,16.3,Superior Room,1402.0,245.25,30.03
+Ramada by Wyndham Dubai Barsha Heights,Barsha Heights (Tecom),757.0,8.5,14.7,King Room with Mobility Access and Walk-In Shower - Smoking,757.0,189.25,0.0
+"Iconic Studio Canal & Burj View Central, Scenic Serene",Dubai,1126.0,8.5,1.7,Studio Apartment with Balcony,1126.0,281.5,0.0
+EGATE - Studio - 10th Floor - Balcony with a View - 01-1018,Dubai,1157.0,8.5,3.6,Apartment,1157.0,289.25,0.0
+EGATE - Studio - 1st Floor with Terrace - Dubai 31-109,Dubai,1318.0,8.5,4.3,Apartment,1318.0,329.5,0.0
+Stunning 1 Bdr Luxury District one,Dubai,1455.0,8.5,3.8,One-Bedroom Apartment,1455.0,363.75,0.0
+Central Business Bay by StayInHomes - 10 mins Burj Khalifa - 1BED - Parking - Pool - Gym,Business Bay,1367.0,8.5,1.8,One-Bedroom Apartment,1367.0,341.75,0.0
+Crowne Plaza Dubai Festival City,Dubai Festival City,1325.0,9.0,8.3,Standard King Room with Waterfront View,1893.0,331.25,30.01
+Urban Retreat Cozy Business Bay Studio Canal Burj View,Dubai,1242.0,9.0,1.7,Studio Apartment with Balcony,1242.0,310.5,0.0
+Central Business Bay Studio by StayInHomes - 10 mins Burj Khalifa - Parking - Pool - Gym,Business Bay,1448.0,9.0,1.8,One-Bedroom Apartment,1448.0,362.0,0.0
+Lovely 1BR in Business Bay - Burj Khalifa View - High floor!,Business Bay,1338.0,9.0,1.4,One-Bedroom Apartment,1338.0,334.5,0.0
+Shada Hotel Jumeirah Garden,Al Satwa,890.0,8.5,3.1,King Room,890.0,222.5,0.0
+Rove City Walk,Al Wasl,898.0,9.0,1.2,Rover Room - Free Shuttle Bus To The Beach & Dubai Mall,898.0,224.5,0.0
+First Central Hotel Suites,Barsha Heights (Tecom),713.0,8.6,14.7,Classic Studio King,713.0,178.25,0.0
+Flora Al Barsha Hotel At The Mall,Al Barsha,743.0,8.2,11.6,Classic King/ Twin Room - Complimentary Transfer To Beach,991.0,185.75,25.03
+Hilton Dubai Jumeirah,Jumeirah Beach Residence,1426.0,8.4,19.0,Deluxe Room with 2 Queen Beds and Partial Sea View,1426.0,356.5,0.0
+Ramada by Wyndham Downtown Dubai,Downtown Dubai,1521.0,8.7,250.0,"1 Bedroom, Balcony King, Downtown View, Smoking, Complimentary Transfer to Kite Beach, Dubai Mall and Metro Station",1690.0,380.25,10.0
+Grand Cosmopolitan Hotel,Al Barsha,1287.0,9.2,12.1,Superior Twin Room - Complimentary Luxury Transfers to Jumeirah Beach and Mall of Emirates,1287.0,321.75,0.0
+Luxury FIVE Palm 1 bedroom,Palm Jumeirah,927.0,9.2,16.1,One-Bedroom Apartment,1030.0,231.75,10.0
+Seven Palm Luxury 1 bedroom,Palm Jumeirah,649.0,9.2,16.3,One-Bedroom Apartment,721.0,162.25,9.99
+Hilton Garden Inn Dubai Business Bay,Business Bay,1201.0,8.8,1.6,King Room - Mobility Accessible,1201.0,300.25,0.0
+The First Collection Dubai Marina,Dubai Marina,966.0,8.8,20.2,Superior Room,1287.0,241.5,24.94
+IntercityHotel Dubai Jaddaf Waterfront,Bur Dubai,642.0,8.0,7.5,Superior King Room (Includes 15% Off F&B and Shuttle Service to Festival City Mall),642.0,160.5,0.0
+Well-furnished 3 Bedroom in Park Towers DIFC,Trade Centre,2509.0,8.0,1.7,Apartment,2509.0,627.25,0.0
+City Seasons Suites,Deira,609.0,8.6,8.9,Premium Studio,708.0,152.25,13.98
+The Seven Palm,Palm Jumeirah,977.0,8.6,16.4,One-Bedroom Apartment,977.0,244.25,0.0
+Millennium Place Dubai Marina,Dubai Marina,1150.0,8.8,19.5,Superior King Room,1150.0,287.5,0.0
+Sky Bay Dubai Business Bay,Business Bay,1352.0,9.0,1.8,Deluxe King Room,2081.0,338.0,35.03
+"Delta Hotels by Marriott Jumeirah Beach, Dubai",Jumeirah Beach Residence,1057.0,8.8,19.0,Deluxe Guest Room King – Complimentary Beach Kit,1057.0,264.25,0.0
+Mercure Dubai Barsha Heights Hotel Suites And Apartments,Barsha Heights (Tecom),521.0,8.2,14.5,"One-Bedroom Apartment City View King OR Twin Bed with Free Shuttle Beach Transfer, Next to Metro Station",1021.0,130.25,48.97
+2 bedroom with Beach View,Jumeirah,2272.0,8.2,4.1,One-Bedroom Apartment,2272.0,568.0,0.0
+Majestic Studio in Bloom Tower C Perfect for 2,Dubai,878.0,8.2,15.8,Studio,878.0,219.5,0.0
+Rove Downtown,Zabeel,1117.0,9.3,1.1,Rover Room - Free Shuttle Bus To The Beach & Dubai Mall,1117.0,279.25,0.0
+Radisson Beach Resort Palm Jumeirah,Palm Jumeirah,1328.0,8.5,16.3,Superior Room,1328.0,332.0,0.0
+Premier Inn Dubai Barsha Heights,Barsha Heights (Tecom),473.0,8.8,14.3,Double Room - Smoking - Drop off to Public Beach and Metro,473.0,118.25,0.0
+Mercure Dubai Gold District,Deira,521.0,8.2,9.4,Superior Queen Room,521.0,130.25,0.0
+Premier Inn Dubai Ibn Battuta Mall,Discovery Gardens,403.0,8.4,22.7,Standard Double Non-Smoking,403.0,100.75,0.0
+Premier Inn Dubai Al Jaddaf,Bur Dubai,386.0,8.4,6.6,Double Room - Non Smoking - Free Shuttle to Festival City Mall,386.0,96.5,0.0
+Four Points by Sheraton Sheikh Zayed Road,Trade Centre,988.0,8.5,2.1,Classic Twin Room with Balcony - Complimentary shuttle service to Dubai Mall and Kite Beach,988.0,247.0,0.0
+An Exceptional Studio in Bloom Tower that Sleeps 2,Dubai,815.0,8.5,15.9,Studio,815.0,203.75,0.0
+Marriott Executive Apartments Dubai Creek,Deira,916.0,8.4,8.7,One-Bedroom Apartment,916.0,229.0,0.0
+Court Tower,Dubai,852.0,8.4,1.8,One-Bedroom House,852.0,213.0,0.0
+Luxury studio near Burj Khalifa,Dubai,777.0,8.4,3.0,One-Bedroom Apartment,971.0,194.25,19.98
+"Hotel Avalon Dubai Jumeirah Village, by The First Collection",Dubai,631.0,8.6,16.9,"King Room - 20% Discount on Food & Beverage, Early Check In at 10AM and Late Check Out at 3PM",1052.0,157.75,40.02
+Tiger Tower,Dubai Marina,613.0,8.6,17.2,Apartment with Balcony,767.0,153.25,20.08
+Damac MERANO LUX 2 bedroom 3 baths,Dubai,1169.0,8.6,1.7,One-Bedroom Apartment,1169.0,292.25,0.0
+Bookable - Modern Studio in Business Bay,Business Bay,1312.0,8.6,2.0,One-Bedroom Apartment,1312.0,328.0,0.0
+Modern 1-Bedroom Apartment for Rent at Al Jaddaf,Bur Dubai,607.0,8.6,4.8,One-Bedroom Apartment,607.0,151.75,0.0
+Admiral Plaza Hotel,Bur Dubai,547.0,8.1,7.5,Superior Double Room,547.0,136.75,0.0
+"Rove City Centre, Deira",Deira,621.0,9.2,9.0,Rover Room - Free Shuttle Bus To The Beach & Outlet Mall,621.0,155.25,0.0
+Feel the Luxury in this 1 Bedroom in East 40 Tower,Dubai,878.0,9.2,23.5,Apartment,878.0,219.5,0.0
+1BR Apartment with Canal View near Dubai Mall & Burj Khalifa,Business Bay,1307.0,9.2,1.3,One-Bedroom Apartment,1634.0,326.75,20.01
+Excellent 1 Bedroom in Zada Tower with Balcony,Business Bay,1192.0,9.2,1.6,Apartment,1192.0,298.0,0.0
+Gevora Hotel,Trade Centre,1159.0,8.7,2.0,Deluxe Room,1159.0,289.75,0.0
+"Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR",Jumeirah Beach Residence,1314.0,8.3,19.8,"Deluxe King Room, including Complimentary Beach Accessories",1546.0,328.5,15.01
+Best Western Premier M Four Hotel,Deira,473.0,7.9,8.9,Large Superior King Room - Non-Smoking,473.0,118.25,0.0
+Stylish 2-Bedroom Apartment in Azizi Riviera-Dubai,Dubai,1869.0,7.9,4.6,Two-Bedroom Apartment,1869.0,467.25,0.0
+Howard Johnson Plaza by Wyndham Dubai Deira,Deira,411.0,6.6,9.2,Deluxe King Room - Non-Smoking,447.0,102.75,8.05
+Sky-high Downtown 1br Steps From Burj Khalifa,Downtown Dubai,1645.0,6.6,350.0,One-Bedroom Apartment,1645.0,411.25,0.0
+Holiday Inn & Suites - Dubai Festival City by IHG,Dubai Festival City,998.0,8.7,9.2,Standard Waterfront View,1426.0,249.5,30.01
+"Sheraton Grand Hotel, Dubai",Trade Centre,1178.0,8.8,4.1,"Deluxe Room, Guest room, King",1178.0,294.5,0.0
+"Aloft Al Mina, Dubai Jumeirah",Bur Dubai,805.0,8.4,6.0,Aloft Room Guest Room with 1 King Bed - Complimentary Transfer to Dubai Mall / Burj Khalifa & DXB Airport Shuttle Drop Off,805.0,201.25,0.0
+Studio M Al Barsha Hotel by Millennium,Al Barsha,624.0,8.1,11.1,Urban King Room with 20% Discount on SPA,624.0,156.0,0.0
+Fresh & Stylish 2br Living At Collective Tower 1,Dubai,1770.0,8.1,11.0,Two-Bedroom Apartment,2212.0,442.5,19.98
+Four Points by Sheraton Bur Dubai,Bur Dubai,837.0,8.4,6.6,Classic King Room with complimentary shuttle service to Dubai Mall & Kite Beach,837.0,209.25,0.0
+Media Rotana Dubai,Al Barsha,752.0,8.3,14.1,Guest Room – King Bed,752.0,188.0,0.0
+DoubleTree by Hilton Dubai Al Jadaf,Bur Dubai,830.0,8.1,6.7,King Room,830.0,207.5,0.0
+Sunday Sheikh Zayed Road Concord Tower by Belvilla,Beach & Coast,503.0,7.2,20.6,Standard Studio,899.0,125.75,44.05
+"Skyline and Community Views 1BR with Private Balcony Near Community Park, Binghatti Amber, Jumeirah Village Circle by Deluxe Holiday Homes",Dubai,1090.0,7.2,16.1,One-Bedroom Apartment,1090.0,272.5,0.0
+La Vista Holiday Home,Dubai,513.0,7.2,4.5,Studio Apartment,641.0,128.25,19.97
+Hyatt Place Dubai Al Rigga,Deira,984.0,8.3,9.4,King Room with Sofa Bed,1231.0,246.0,20.06
+"Modern Chic Studio Apartment, Belgravia Heights 2, JVC Dubai",Dubai,1521.0,8.3,16.7,Studio Apartment with Balcony,1521.0,380.25,0.0
+"Andaz Dubai The Palm, By Hyatt",Palm Jumeirah,1454.0,8.9,16.0,King Room,1454.0,363.5,0.0
+"City Vibe 1BR with Outdoor Space, Walking Distance to Burj Khalifa and Dubai Mall, Grande, Downtown Dubai by Deluxe Holiday Homes",Downtown Dubai,1781.0,8.9,150.0,One-Bedroom Apartment,1781.0,445.25,0.0
+"Al Seef Heritage Hotel Dubai, Curio Collection by Hilton",Bur Dubai,796.0,8.7,8.3,King Heritage Room,796.0,199.0,0.0
+"Al Khoory Executive Hotel, Al Wasl",Beach & Coast,656.0,8.6,4.1,Superior Double or Twin Room,656.0,164.0,0.0
+Hampton by Hilton Dubai Al Seef,Bur Dubai,584.0,8.1,7.8,King Room,584.0,146.0,0.0
+Rove Dubai Marina,Dubai Marina,928.0,9.1,20.2,Rover Room - Free Shuttle Bus To The Beach & Mall,928.0,232.0,0.0
+Hampton By Hilton Dubai Airport,Al Qusais,568.0,7.9,13.8,Queen Room - Non-Smoking,568.0,142.0,0.0
+Copthorne Hotel Dubai,Deira,682.0,8.4,8.7,Superior King Room with City View,682.0,170.5,0.0
+Cozy New Studio for rent At Azizi Riviera Dubai,Dubai,460.0,8.4,4.6,Studio with Balcony,575.0,115.0,20.0
+SmartConceptLiving Studio with Burj Khalifa View in Downtown Dubai,Dubai,1259.0,8.4,400.0,One-Bedroom Apartment,1574.0,314.75,20.01
+Marina View Deluxe Hotel Apartment,Dubai Marina,603.0,7.7,18.2,Deluxe Studio,603.0,150.75,0.0
+Arjaan by Rotana - Dubai Media City,Dubai Media City,1028.0,8.2,16.3,City View Room,1028.0,257.0,0.0
+Rove Healthcare City - Bur Dubai,Bur Dubai,574.0,9.1,6.0,Rover Room – Easy Access To Sheikh Zayed Road & Bur Dubai,574.0,143.5,0.0
+NH Collection Dubai The Palm,Palm Jumeirah,1324.0,9.0,16.4,"Standard Room, Beach & Rooftop Infinity Pool Access, Kids Club Access",1324.0,331.0,0.0
+ibis Styles Dubai Airport Hotel,Garhoud,450.0,7.7,9.5,King Room - DXB Free Airport Drop-Off T1&T3 every hour (24/7),450.0,112.5,0.0
+"Rose Park Hotel - Al Barsha, Opposite Metro Station",Al Barsha,852.0,8.6,12.2,Deluxe King Room - Late check-out 2 pm,852.0,213.0,0.0
+Mama Shelter Dubai,Business Bay,1126.0,8.7,1.7,Medium Mama Double Accessible (Free shuttle service to Dubai Mall & Kite Beach),1126.0,281.5,0.0
+City Seasons Towers Hotel Bur Dubai,Bur Dubai,725.0,7.9,7.1,Premium King Room,853.0,181.25,15.01
+Bnbeyond's Sassy Studio with Expansive Balcony,Dubai,937.0,7.9,23.4,One-Bedroom Apartment,1171.0,234.25,19.98
+Hilton Garden Inn Dubai Deira,Deira,682.0,7.9,9.7,King Room - Mobility Accessible,682.0,170.5,0.0
+Paramount Hotel Dubai,Business Bay,1277.0,8.6,2.2,Scene Room,1419.0,319.25,10.01
+"Dukes The Palm, a Royal Hideaway Hotel",Palm Jumeirah,1406.0,8.7,16.4,Deluxe,1406.0,351.5,0.0
+"Azizi Mina, Beachfront 1 bedroom, Sea View, Private Balcony",Palm Jumeirah,736.0,8.7,14.2,One-Bedroom Apartment,818.0,184.0,10.02
+Dusit D2 Kenz Hotel Dubai,Barsha Heights (Tecom),981.0,9.0,14.7,Standard Double Room,1308.0,245.25,25.0
+ibis Mall Avenue Dubai,Al Barsha,571.0,7.6,11.7,Standard Double Room,571.0,142.75,0.0
+The First Collection Dubai Business Bay,Business Bay,1165.0,8.8,1.9,Deluxe Room,1792.0,291.25,34.99
+VayK - Modern 1 BD in Downtown Dubai,Downtown Dubai,2171.0,8.8,350.0,One-Bedroom Apartment with Balcony and City View,2171.0,542.75,0.0
+Elegant 1BR in Grande Downtown with Pool,Downtown Dubai,2067.0,8.8,200.0,One-Bedroom Apartment with Balcony and City View,2583.0,516.75,19.98
+MD Hotel By Gewan,Al Barsha,801.0,9.0,12.2,Deluxe King Room - Complimentary Transfer to Bluewater Island and JBR,890.0,200.25,10.0
+Jumeirah Creekside Dubai,Garhoud,1055.0,8.7,8.6,"Deluxe Room - Complimentary Shuttle to GGICO Metro, Dubai Mall, Mall of Emirates & Kite Beach",1055.0,263.75,0.0
+"Leva Hotel and Suites, Opposite Downtown",Al Wasl,966.0,8.8,0.9,Deluxe King Room,966.0,241.5,0.0
+Holiday Inn Express Dubai Internet City by IHG,Dubai Internet City,808.0,8.4,14.7,Standard Twin Room - Smoking,808.0,202.0,0.0
+Fendi 1BR with Panoramic Sea View,Palm Jumeirah,2251.0,8.4,16.8,One-Bedroom Apartment with Balcony and Sea View,2814.0,562.75,20.01
+JVC Hideaway with Balcony Modern & Serene,Dubai,2124.0,8.4,15.9,One-Bedroom Apartment with Balcony,2124.0,531.0,0.0
+The First Collection Dubai Waterfront,Business Bay,1217.0,8.8,1.7,Deluxe Room,1872.0,304.25,34.99
+"FORM Hotel Al Jaddaf, Dubai, a Member of Design Hotels",Bur Dubai,640.0,8.8,6.9,Cozy Queen Room with City View,640.0,160.0,0.0
+Amazing Spacious Studio in JVC,Dubai,634.0,8.8,15.7,One-Bedroom Apartment,634.0,158.5,0.0
+FAM Living - Stunning Modern Marina Apartment,Dubai Marina,741.0,8.8,20.0,Studio Apartment with Balcony,741.0,185.25,0.0
+EasyGo- Lavish 2BR-Terrace-View-Infinity pool,Business Bay,2437.0,8.8,1.8,Two-Bedroom Apartment with Balcony,2437.0,609.25,0.0
+Rove Trade Centre,Trade Centre,782.0,9.1,4.2,"Rover Room - Free Shuttle Bus to Dubai Mall, Metro & Beach",782.0,195.5,0.0
+"Residence Inn by Marriott Sheikh Zayed Road, Dubai",Trade Centre,1125.0,8.6,1.6,"Deluxe Studio with 1 King, City view",1125.0,281.25,0.0
+City Premiere Marina Hotel Apartments,Dubai Marina,899.0,8.6,18.3,Standard One-Bedroom Apartment,2367.0,224.75,62.02
+"Marriott Hotel Al Jaddaf, Dubai",Bur Dubai,1126.0,8.2,4.6,"Deluxe King Room – Free Shuttle to DWTC, Dubai Mall, Beach",1126.0,281.5,0.0
+"Radisson Blu Hotel, Dubai Canal View",Business Bay,1146.0,8.7,1.8,Standard Room,1146.0,286.5,0.0
+Prime Studio in the Heart of JVC-Dubai,Dubai,809.0,8.7,15.7,King Studio,809.0,202.25,0.0
+GOLDEN NUMBER by Design Studio,Dubai,1676.0,8.7,16.1,Two-Bedroom Apartment with Balcony,1676.0,419.0,0.0
+"Sheraton Mall of the Emirates Hotel, Dubai",Al Barsha,1430.0,8.5,10.9,"Deluxe Twin Room, City view",1430.0,357.5,0.0
+Gateway Hotel,Bur Dubai,619.0,8.4,7.5,Deluxe Double Room,619.0,154.75,0.0
+Stunning 1-Bedroom in JVC-Bloom Tower A,Dubai,987.0,8.4,15.9,One-Bedroom Apartment,987.0,246.75,0.0
+City Premiere Hotel Apartments - Dubai,Business Bay,899.0,8.5,1.0,Standard One-Bedroom Apartment,899.0,224.75,0.0
+Luxury Business Bay Studio with breathtaking views.,Business Bay,1231.0,9.8,1.2,One-Bedroom Apartment,1231.0,307.75,0.0
+Stella Di Mare Dubai Marina Hotel,Dubai Marina,1529.0,8.4,19.8,Deluxe Twin Room (Free Shuttle Bus to The Beach and Marina Mall),1529.0,382.25,0.0
+Raintree Rolla Hotel,Bur Dubai,305.0,5.5,7.2,Deluxe Room (Monthly Rate Available),305.0,76.25,0.0
+Luxurious 2 Bedroom Apartment In Belgravia 3,Dubai,818.0,5.5,16.7,Two-Bedroom Apartment,818.0,204.5,0.0
+"Rove La Mer Beach, Jumeirah",Beach & Coast,1365.0,9.0,3.9,"Rover Room Free Shuttle Service to Dubai Mall, Private Beach",1365.0,341.25,0.0
+Stunning 2 Bdr Luxury Business Bay,Business Bay,3617.0,9.0,2.1,Two-Bedroom Apartment,3617.0,904.25,0.0
+FIRST CLASS - 1BR - DUBAI Marina,Dubai,920.0,9.0,18.2,One-Bedroom Apartment,920.0,230.0,0.0
+Sunshine Stay in Marina,Dubai Marina,909.0,9.0,17.2,Bed in 10-Bed Mixed Dormitory Room,1136.0,227.25,19.98
+voco Dubai The Palm by IHG,Palm Jumeirah,1339.0,9.0,16.3,Deluxe King Room,1339.0,334.75,0.0
+"Courtyard by Marriott World Trade Centre, Dubai",Al Satwa,1328.0,9.2,3.8,Standard King Room with City View,1328.0,332.0,0.0
+Studio close to Burj Khalifa and Downtown Dubai,Downtown Dubai,1101.0,9.2,1.1,One-Bedroom Apartment,1101.0,275.25,0.0
+Le Méridien Dubai Hotel & Conference Centre,Garhoud,1126.0,8.7,9.7,"Deluxe Room, Guest Room, Garden View",1126.0,281.5,0.0
+ibis Styles Dubai Gold District,Deira,460.0,8.0,9.0,Superior Queen Room,460.0,115.0,0.0
+Gulf Court Hotel Business Bay,Business Bay,813.0,8.1,1.4,Superior Room,813.0,203.25,0.0
+Grand Millennium Dubai,Barsha Heights (Tecom),1065.0,9.1,14.2,Superior King Room,1065.0,266.25,0.0
+Rove JBR,Jumeirah Beach Residence,1427.0,9.6,18.3,Rover Room with COVEBEACH access,1427.0,356.75,0.0
+Golden Sands Hotel Apartments,Bur Dubai,897.0,8.5,6.7,Premier Studio - Golden Sands 3,897.0,224.25,0.0
+GuestReady - Modern urban retreat in JLT,Jumeirah Lakes Towers,2407.0,8.5,17.6,Apartment with Balcony,2407.0,601.75,0.0
+"Brand new, Stylish Studio",Dubai,612.0,8.5,14.5,One-Bedroom Apartment,612.0,153.0,0.0
+Paramount Hotel Midtown,Business Bay,1577.0,8.9,0.7,Scene Coastal Room,1577.0,394.25,0.0
+Modern Urban Studio With Skyline Views,Dubai,947.0,8.9,30.5,Deluxe Double Studio,947.0,236.75,0.0
+Spacious 2br Townhouse At Urbana 3 Move In Ready,Dubai,1136.0,8.9,37.6,Two-Bedroom Apartment,1136.0,284.0,0.0
+GuestReady - West Side Studios in Palm Jumeirah,Palm Jumeirah,2707.0,8.9,16.4,Studio with Balcony,2707.0,676.75,0.0
+Elegant 1-BR at Dubai Opera Stay,Dubai,2045.0,8.9,250.0,One-Bedroom Apartment,2045.0,511.25,0.0
+Hyatt Place Dubai Wasl District Residences,Deira,912.0,8.1,9.3,Studio with Kitchen,1140.0,228.0,20.0
+Taj Jumeirah Lakes Towers,Jumeirah Lakes Towers,1407.0,8.9,17.5,Superior Room king bed,1407.0,351.75,0.0
+La Suite Dubai Hotel & Apartments,Al Sufouh,656.0,8.7,13.6,"Deluxe Room – Complimentary Transfer to Mall of the Emirates, Insurance Market Metro Station & Jumeirah Beach",937.0,164.0,29.99
+One bed apartment at a great location in Dubai Marina,Dubai Marina,767.0,9.7,18.0,One-Bedroom Apartment,767.0,191.75,0.0
+Golden Sands Boutique Hotel-Dubai Creek,Deira,1381.0,9.3,8.5,Deluxe King Room,1381.0,345.25,0.0
+Novotel Suites Mall Avenue Dubai,Al Barsha,644.0,8.1,11.7,Suite Room,644.0,161.0,0.0
+Flora Inn Hotel Dubai Airport,Garhoud,602.0,8.1,9.5,Superior Room - Complimentary Transfer to the Beach,1095.0,150.5,45.02
+Delta Hotels by Marriott Dubai Investment Park,Dubai Investment Park,566.0,8.6,23.8,Standard King Room with Shuttle Bus to JBR Beach and various shopping malls,566.0,141.5,0.0
+Knokey Aykon City,Business Bay,738.0,8.7,2.6,One-Bedroom Apartment,738.0,184.5,0.0
+W Dubai - Mina Seyahi,Dubai Marina,2123.0,8.8,17.1,Fantastic King - Sea View with Balcony,2123.0,530.75,0.0
+Conrad Dubai,Trade Centre,1561.0,8.8,3.6,Deluxe Double Room with two Double Beds and Skyline View,1561.0,390.25,0.0
+InterContinental Dubai Marina by IHG,Dubai Marina,1701.0,8.9,18.8,Classic King Room,2268.0,425.25,25.0
+Comfy 1-Bedroom Apartment at Blue Wave - Liwan,Dubai,646.0,8.9,15.2,One-Bedroom Apartment,646.0,161.5,0.0
+Elegant 2BR in Address Dubai Opera - 1 min walk from Burj Khalifa and Dubai Mall,Dubai,2247.0,8.9,250.0,Two-Bedroom Apartment,2809.0,561.75,20.01
+Premier Inn Dubai International Airport,Garhoud,355.0,8.5,10.2,New Style Double Room -Smoking- Free DXB Airport Shuttle Every 30min to T1&3,355.0,88.75,0.0
+Pullman Dubai Downtown,Business Bay,1178.0,8.4,0.9,Superior King Room,1178.0,294.5,0.0
+"The First Collection Dubai Jumeirah Village Circle, a Tribute Portfolio Hotel",Dubai,992.0,8.7,17.1,Classic Twin Room,992.0,248.0,0.0
+"Hilton Garden Inn Dubai, Mall Avenue",Al Barsha,867.0,8.4,11.7,King Room - Mobility Accessible,867.0,216.75,0.0
+Luxe Getaways Royal Amwaj Palm Jumeirah Resort Apartment Holiday Home,Palm Jumeirah,1081.0,8.8,14.1,Studio Apartment,1081.0,270.25,0.0
+Hyatt Place Dubai Wasl District,Deira,1183.0,8.3,9.4,King Room with Sofa Bed,1183.0,295.75,0.0
+Al Bandar Rotana – Dubai Creek,Deira,1249.0,9.0,8.5,City View Room - King Bed,1249.0,312.25,0.0
+DoubleTree by Hilton Dubai - Business Bay,Business Bay,1475.0,9.1,1.2,Double Room with Two Double Beds,1475.0,368.75,0.0
+DRAGON PALACe,Dubai,368.0,9.1,9.4,One-Bedroom Apartment,460.0,92.0,20.0
+"Luxury 2BR Apartment, Address Dubai Opera, Full Burj Khalifa View",Downtown Dubai,1397.0,9.1,250.0,One-Bedroom Apartment,1552.0,349.25,9.99
+Al Habtoor Palace - Preferred Hotels & Resorts,Business Bay,1282.0,9.0,2.3,King Bed Deluxe Room,1282.0,320.5,0.0
+Rose Rayhaan by Rotana - Dubai,Trade Centre,1432.0,8.6,1.9,Guest Room – King or Twin Beds,1432.0,358.0,0.0
+Millennium Airport Hotel Dubai,Garhoud,831.0,8.4,9.3,"Deluxe Twin Room, complimentary shuttle to DXB Airport Terminal 1 & 3",831.0,207.75,0.0
+Grand Plaza Mövenpick,Dubai Internet City,1432.0,9.2,15.3,Superior Room,1432.0,358.0,0.0
+Grand Hyatt Dubai,Bur Dubai,1666.0,8.7,6.7,King Room,1666.0,416.5,0.0
+"Beachfront 2BR and Assistant's Room with Sea Views Terrace, Steps From Iconic Landmarks & Amenities, The Residences South, Palm Jumeirah by Deluxe Holiday Homes",Palm Jumeirah,3036.0,8.7,16.4,Three-Bedroom Apartment,3036.0,759.0,0.0
+Frank Porter - Cayan Tower,Dubai Marina,2963.0,8.7,17.6,Apartment,2963.0,740.75,0.0
+Radiance Premium Suites,Al Barsha,732.0,8.5,12.2,One-Bedroom Apartment,732.0,183.0,0.0
+Millennium Place Barsha Heights Hotel,Barsha Heights (Tecom),801.0,8.1,15.0,Superior King Room,801.0,200.25,0.0
+Centro Barsha - by Rotana,Al Barsha,651.0,8.1,12.0,Centro Room – Twin Beds,651.0,162.75,0.0
+Premier Inn Dubai Investments Park,Dubai Investment Park,345.0,8.3,23.8,Double Room - Smoking,345.0,86.25,0.0
+Zabeel House The Greens by Jumeirah,The Greens,1267.0,8.9,15.1,Popular Room with Late Check-out at 2pm,1267.0,316.75,0.0
+Studio with private beach access at Palm Jumeirah,Palm Jumeirah,1363.0,9.1,16.5,Studio Apartment with Balcony,1363.0,340.75,0.0
+Ultimate Luxury Grande 1B With Balcony & Views,Downtown Dubai,1130.0,9.1,200.0,One-Bedroom Apartment with Balcony,1413.0,282.5,20.03
+MENA ApartHotel Albarsha At The Mall,Al Barsha,583.0,8.2,11.8,Studio Apartment - Smoking - Twin - 20% off F&B and Laundry,583.0,145.75,0.0
+Oaks Ibn Battuta Gate Dubai,Jebel Ali,1211.0,9.1,23.3,Premier Room With Free Shuttle Bus to Public Beach,1211.0,302.75,0.0
+Avani Plus Palm View Dubai Hotel & Suites,Dubai Media City,1363.0,9.2,15.9,Studio City View,1363.0,340.75,0.0
+Millennium Place Barsha Heights Hotel Apartments,Barsha Heights (Tecom),937.0,8.2,15.0,Superior King Studio,937.0,234.25,0.0
+One&Only Royal Mirage Resort Dubai,Al Sufouh,3219.0,9.0,16.6,Arabian Court Deluxe King Room with Waterpark Access,3219.0,804.75,0.0
+Silkhaus lovely studio with Downtown view in Boulevard central,Downtown Dubai,1078.0,7.3,400.0,Studio,1078.0,269.5,0.0
+Studio M Arabian Plaza Hotel & Hotel Apartments,Deira,606.0,8.4,11.9,Urban Twin Room - with complimentary Shuttle Service to the Beach and Deira City Center,606.0,151.5,0.0
+Sheraton Dubai Creek Hotel & Towers,Deira,981.0,8.6,8.5,"Deluxe Room, Guest room, 1 King, City view",981.0,245.25,0.0
+"Lemon Tree Hotel, Jumeirah Dubai",Beach & Coast,1021.0,8.6,9.4,Superior Queen/Twin Room with Free Beach Transfer,1021.0,255.25,0.0
+Luxury 1-Bedroom Apartment At Burj Crown,Downtown Dubai,1866.0,8.0,350.0,One-Bedroom Apartment,3332.0,466.5,44.0
+"Element Al Jaddaf, Dubai",Bur Dubai,1014.0,9.1,6.5,"Studio with 2 Double Beds (Complimentary Transfer to Dubai Mall, Festival City Mall, J1 Beach & Al Jaddaf Metro)",1014.0,253.5,0.0
+Apartment in Downtown Dubai,Downtown Dubai,1577.0,9.0,0.6,Two-Bedroom Apartment,1609.0,394.25,1.99
+Park Regis Business Bay,Business Bay,933.0,8.6,1.5,Standard Room,933.0,233.25,0.0
+Canopy by Hilton Dubai Al Seef,Bur Dubai,825.0,8.5,7.8,King Room - Mobility Accessible,825.0,206.25,0.0
+Taj Dubai,Business Bay,1763.0,9.0,0.6,Luxury King Room with City View,1763.0,440.75,0.0
+Raffles Dubai,Bur Dubai,2399.0,9.2,6.1,Signature Twin Room,3427.0,599.75,30.0
+Citymax Hotel Business Bay,Business Bay,764.0,8.0,1.8,Twin Room - includes 20% off Food & Beverage (excluding in-room dinning),764.0,191.0,0.0
+Citymax Hotel Bur Dubai,Bur Dubai,472.0,7.2,6.5,Double Room - includes 20% off Food & Beverage (excluding in-room dining),472.0,118.0,0.0
+Modern and Stunning Studio in MAG 910 MBR City,Dubai,878.0,7.2,5.8,Studio,878.0,219.5,0.0
+Stella Stays Lana Tower,Dubai,784.0,8.1,16.1,Standard Studio,784.0,196.0,0.0
+"Marriott Resort Palm Jumeirah, Dubai",Palm Jumeirah,1789.0,8.8,16.1,"Palm Deluxe Room with 2 Double Beds – Private Balcony, Direct Access to Beach, Free Access to Kids Club",1789.0,447.25,0.0
+"Holiday Inn Express Dubai, Jumeirah by IHG",Beach & Coast,758.0,7.8,5.3,Standard King Room - Disability Access,758.0,189.5,0.0
+Luxury Palm Tower Studio Apartments with Pool and Fantastic Sea View,Palm Jumeirah,1496.0,9.6,16.1,Studio with Sea View,1496.0,374.0,0.0
+InterContinental Dubai Festival City by IHG,Dubai Festival City,1802.0,8.8,8.4,Classic Room,2575.0,450.5,30.02
+Crowne Plaza - Dubai Jumeirah by IHG,Beach & Coast,912.0,8.4,5.0,Standard King Room - Smoking,912.0,228.0,0.0
+Hilton Dubai The Walk,Jumeirah Beach Residence,1362.0,8.7,19.0,Studio with Sea View (Private Beach Access),1362.0,340.5,0.0
+Cozy & Radiant 1BR Business Bay,Business Bay,877.0,8.7,1.6,One-Bedroom Apartment with Balcony,877.0,219.25,0.0
+Khalidia Palace Hotel Dubai by Mourouj Gloria,Deira,969.0,8.1,8.8,Deluxe King Room,1424.0,242.25,31.95
+Sunday Hotel Holiday international Dubai,Bur Dubai,1173.0,8.7,7.6,Deluxe Double Room,2094.0,293.25,43.98
+Hyatt Place Dubai Al Rigga Residences,Deira,977.0,8.2,9.3,Studio with Kitchen,1221.0,244.25,19.98
+Dusit Thani Dubai,Trade Centre,1408.0,8.5,1.2,Deluxe Room,1408.0,352.0,0.0
+Grand Excelsior Hotel Al Barsha,Al Barsha,719.0,8.8,11.6,Superior King/ Twin Room (Complimentary Shuttle to the Beach and Mall of the Emirates),719.0,179.75,0.0
+"Tumbi West Palm Beach Hotel Dubai,Tapestry Collection Hilton",Palm Jumeirah,1574.0,8.6,16.2,King Room,1574.0,393.5,0.0
+voco Dubai by IHG,Trade Centre,1502.0,8.4,3.3,Deluxe,1502.0,375.5,0.0
+Citymax Hotel Al Barsha at the Mall,Al Barsha,616.0,7.8,11.2,Twin Room with 20% off F&B,616.0,154.0,0.0
+Ibis Styles Dubai Jumeira,Beach & Coast,594.0,7.7,5.0,Standard Double Room,594.0,148.5,0.0
+Luxury Studio Apartment Palm View with Big Balcony Free Parking by Belvilla,Business Bay,323.0,5.0,2.0,One-Bedroom House,577.0,80.75,44.02
+Embassy Suites By Hilton Dubai Business Bay,Business Bay,1350.0,8.6,1.7,King Room,1350.0,337.5,0.0
+Unlock J One Downtown Dubai,Business Bay,1405.0,8.5,1.5,Studio with Kitchen,1405.0,351.25,0.0
+Pullman Dubai Creek City Centre,Deira,968.0,8.4,8.8,Superior Double Room,968.0,242.0,0.0
+Premium JBR Stay with Beach Access and Sea View,Jumeirah Beach Residence,1136.0,8.4,19.2,Bed in 10-Bed Mixed Dormitory Room,1136.0,284.0,0.0
+Adagio Premium The Palm,Palm Jumeirah,1363.0,8.8,16.2,Studio King with Private Beach Access,1363.0,340.75,0.0
+Jumeirah Zabeel Saray Dubai,Palm Jumeirah,2334.0,8.6,18.5,"Superior King Room with Balcony, access to luxury spa facilities, Kids & Teens Club & private cinema",2334.0,583.5,0.0
+DAMAC Maison Aykon City Dubai,Business Bay,1619.0,9.0,2.7,Studio City View With kitchenette - Free Bus service to Dubai Mall Metro Station,1619.0,404.75,0.0
+"Radisson Blu Hotel, Dubai Waterfront",Business Bay,1635.0,8.3,1.0,Standard Room,1635.0,408.75,0.0
+Hyatt Regency Dubai - Corniche,Deira,1070.0,8.0,9.8,King Room,1070.0,267.5,0.0
+Grand Excelsior Hotel - Bur Dubai,Bur Dubai,777.0,8.7,6.5,Deluxe Room with 25% off F&B,1295.0,194.25,40.0
+Hyatt Centric Jumeirah Dubai,Beach & Coast,1893.0,8.6,4.6,King Room,1893.0,473.25,0.0
+Studio Free Parking Pet Friendly Near Downtown Dubai,Bur Dubai,545.0,8.6,4.5,One-Bedroom Apartment,682.0,136.25,20.09
+"Kempinski Hotel Mall of the Emirates, Dubai",Al Barsha,2110.0,9.2,11.4,Superior Room,2110.0,527.5,0.0
+Millennium Executive Apartments Mont Rose,Al Barsha,636.0,8.7,14.3,Superior Studio,636.0,159.0,0.0
+Millennium Atria Business Bay,Business Bay,940.0,8.2,1.9,Premium Studio,940.0,235.0,0.0
+Boutique-Trade Center,Beach & Coast,1198.0,9.0,4.5,Large Double or Twin Room,1198.0,299.5,0.0
+Hotel Local Dubai at Jumeirah Village Triangle by the First Collection,Dubai,1136.0,9.5,17.8,"Deluxe King Room - Staycation Package Including 30% Discount on Food & Beverage, Early Check In at 10AM and Late Check Out at 4PM",1748.0,284.0,35.01
+Le Meridien Mina Seyahi Beach Resort & Waterpark,Al Sufouh,1856.0,8.6,16.9,"Deluxe Skyline View, 1 King",1856.0,464.0,0.0
+Rose Executive Hotel - DWTC,Al Satwa,935.0,8.4,3.4,Executive King Room - Late check-out 2 pm,935.0,233.75,0.0
+Grand Heights Dubai Hotel Apartments,Barsha Heights (Tecom),1157.0,8.7,14.4,Classic Studio,1157.0,289.25,0.0
+C Central Hotel and Resort The Palm,Palm Jumeirah,1592.0,8.3,14.6,Superior Double Room with Hotel Private Beach Access,1592.0,398.0,0.0
+"Taj Exotica Resort & Spa, The Palm, Dubai",Palm Jumeirah,1846.0,9.2,14.3,Luxury Room King Bed,1846.0,461.5,0.0
+Hyatt Place Dubai Jumeirah Residences,Beach & Coast,959.0,8.4,5.7,Studio with Kitchen,959.0,239.75,0.0
+The Retreat Palm Dubai MGallery by Sofitel,Palm Jumeirah,1467.0,8.4,14.5,Deluxe Room with Balcony,1467.0,366.75,0.0
+Hilton Garden inn Dubai Jumeirah,Beach & Coast,660.0,7.4,5.9,King Room,660.0,165.0,0.0
+Seven Seas Hotel,Al Qusais,568.0,7.5,13.4,Premium King,568.0,142.0,0.0
+"Al Habtoor Grand Resort, Autograph Collection",Jumeirah Beach Residence,1619.0,8.7,18.0,"Tower Partial Ocean View Room, 1 King, or 2 Twin/Single Bed(s)",1619.0,404.75,0.0
+Holiday Inn Dubai Business Bay by IHG,Business Bay,1135.0,8.7,1.7,Standard King Room - Smoking,1135.0,283.75,0.0
+Resivation Hotel,Dubai,757.0,8.1,22.5,Superior King Room,757.0,189.25,0.0
+Howard Johnson Bur Dubai,Bur Dubai,487.0,7.6,7.3,Standard Twin Room - Smoking,487.0,121.75,0.0
+FIVE Palm Jumeirah Dubai,Palm Jumeirah,2679.0,9.2,16.1,Superior | Twin Beds,2679.0,669.75,0.0
+Citadines Metro Central Dubai,Barsha Heights (Tecom),1156.0,8.8,14.6,Executive Studio,1156.0,289.0,0.0
+Centara Mirage Beach Resort Dubai,Palm Deira,1412.0,8.6,12.2,Superior Room King,1765.0,353.0,20.0
+Golden Sands Suites,Bur Dubai,1938.0,9.1,6.7,Premier Two Bedroom Suite with Balcony,1938.0,484.5,0.0
+JW Marriott Marquis Hotel Dubai,Business Bay,1532.0,8.7,1.8,Deluxe King Room,1532.0,383.0,0.0
+Signature 1 Hotel Tecom,Barsha Heights (Tecom),690.0,8.0,14.8,Classic Room,690.0,172.5,0.0
+Novotel Deira Creekside Dubai,Deira,904.0,8.0,8.9,Superior Twin Room,904.0,226.0,0.0
+The Canvas Dubai - MGallery Hotel Collection,Bur Dubai,1022.0,8.2,6.8,Superior King Room,1022.0,255.5,0.0
+Silkhaus unique 1BDR pad gorgeous view in new tower,Downtown Dubai,1392.0,8.4,0.6,Apartment,1392.0,348.0,0.0
+Dubai Marriott Harbour Hotel And Suites,Dubai Marina,1984.0,9.0,17.5,"Renovated, One-Bedroom Suite with City View",1984.0,496.0,0.0
+Staybridge Suites Dubai Internet City by IHG,Dubai Internet City,1233.0,9.2,14.6,Studio Suite,1233.0,308.25,0.0
+Shangri-La Dubai,Trade Centre,1684.0,8.9,1.4,Deluxe King Room with Sea View,1684.0,421.0,0.0
+Jumeirah Emirates Towers Dubai,Trade Centre,1935.0,8.9,2.7,Deluxe Room with Complimentary Private Beach Access and Direct Connectivity to Museum of The Future,1935.0,483.75,0.0
+Next'Living - Luxury Private Room in a CoLiving Villa,Business Bay,703.0,9.8,1.1,Single Room,703.0,175.75,0.0
+Sheraton Jumeirah Beach Resort,Jumeirah Beach Residence,2177.0,8.8,19.9,"Deluxe King Room - JBR View, Private beach Access",2177.0,544.25,0.0
+Crowne Plaza Dubai Marina by IHG,Dubai Marina,1555.0,9.1,18.9,Standard Room,1555.0,388.75,0.0
+La Zona Continental Hotel,Deira,690.0,7.9,11.8,Double Room,690.0,172.5,0.0
+"The Ritz-Carlton, Dubai",Jumeirah Beach Residence,3090.0,9.1,18.4,Deluxe King Room with Balcony,3090.0,772.5,0.0
+Queen Elizabeth 2 Hotel,Bur Dubai,665.0,7.9,7.5,Classic King Room,665.0,166.25,0.0
+Escape 24 Luxury Studio Damac Maison Prive Business Bay Dubai,Business Bay,1010.0,8.3,1.2,Studio with Balcony,1010.0,252.5,0.0
+InterContinental Residences Dubai Business Bay by IHG,Business Bay,1877.0,9.4,1.5,Studio King Room with Kitchenette/Balcony/City View,1877.0,469.25,0.0
+Full View Burj Khalifa and Fountains -Souk Al Bahar- Dream View holiday Home Rental,Dubai,3135.0,9.4,400.0,One-Bedroom Apartment,3135.0,783.75,0.0
+Hyde Hotel Dubai,Business Bay,1363.0,8.7,1.6,General Admission King with Balcony,1363.0,340.75,0.0
+"Marriott Executive Apartments Al Jaddaf, Dubai",Bur Dubai,1060.0,8.5,4.7,One-Bedroom Apartment (Complimentary Shuttle to La Mer and Dubai Mall),1060.0,265.0,0.0
+"Millennium Plaza Downtown, Dubai",Trade Centre,1170.0,7.1,2.9,Deluxe Room,1170.0,292.5,0.0
+Le Royal Meridien Beach Resort & Spa Dubai,Jumeirah Beach Residence,2367.0,9.2,18.1,"Super Deluxe, Guest room, 2 Twin/Single Bed(s), City View",2367.0,591.75,0.0
+Damac Majestine VIP - Manzar Holiday Homes,Business Bay,1196.0,10.0,1.4,Studio,1196.0,299.0,0.0
+Iconic 1BR Creek Beach Premium Amenities - 1404,Dubai Creek,659.0,10.0,7.8,One-Bedroom Apartment,659.0,164.75,0.0
+Silkhaus Tower with Private Beach in Exclusive Location,Palm Jumeirah,1415.0,8.6,17.2,Apartment,1415.0,353.75,0.0
+DAMAC Maison Cour Jardin,Business Bay,1704.0,9.0,1.0,Deluxe Room with kitchenette - City Skyline View,1704.0,426.0,0.0
+Mercure Dubai Deira,Deira,772.0,8.7,9.4,Classic Room King Bed,772.0,193.0,0.0
+Silkhaus Burj Khalifa View 1BDR in Burj Crown,Downtown Dubai,1249.0,7.4,250.0,Apartment,1249.0,312.25,0.0
+Sofitel Dubai Downtown,Downtown Dubai,2044.0,8.9,0.6,Luxury King Room,2044.0,511.0,0.0
+Royal Central Hotel and Resort The Palm,Palm Jumeirah,1840.0,8.6,14.3,Superior Twin Room with Hotel Private Beach Access,1840.0,460.0,0.0
+Heritage Home Guest House,Bur Dubai,966.0,8.1,8.1,Double Room,966.0,241.5,0.0
+Ibis One Central - World Trade Centre Dubai,Trade Centre,1134.0,7.7,3.2,Standard Queen Room,1134.0,283.5,0.0
+Sofitel Dubai Jumeirah Beach,Jumeirah Beach Residence,1857.0,9.4,19.4,Superior King Room with Partial Sea View - Pool Access,1857.0,464.25,0.0
+Savoy Central Hotel Apartments,Bur Dubai,885.0,8.5,7.1,Executive Studio,885.0,221.25,0.0
+Aparthotel Adagio Dubai Deira,Deira,863.0,8.1,9.6,Studio Deluxe - 20% off Food & Beverage,863.0,215.75,0.0
+Avenue Hotel Dubai,Deira,612.0,7.8,9.2,Premium Single Room,612.0,153.0,0.0
+Breathtaking view studio – Address Dubai Marina,Dubai Marina,1893.0,7.6,18.6,Studio Apartment,1893.0,473.25,0.0
+Executive Studio with Burj View at Upside Living 2009,Business Bay,1281.0,7.6,2.1,Studio,1281.0,320.25,0.0
+Roda Amwaj Suites Jumeirah Beach Residence,Jumeirah Beach Residence,1437.0,8.5,19.5,One Bedroom Apartment,1437.0,359.25,0.0
+Cheval Maison - Expo City Dubai,Dubai World Central,1150.0,9.1,28.7,Superior Studio Apartment,1150.0,287.5,0.0
+The Westin Dubai Mina Seyahi Beach Resort and Waterpark,Al Sufouh,2230.0,8.8,16.9,"Deluxe Skyline View, 1 King, Jungle Bay Waterpark access",2230.0,557.5,0.0
+Waves - Elegant Waterfront Living in Dubai's Business Bay,Business Bay,4649.0,8.8,1.7,Two-Bedroom Apartment,4649.0,1162.25,0.0
+Luxurious apartments at JLT by Checkmyguest,Beach & Coast,365.0,4.6,20.6,Standard Two Bedroom Apartment,651.0,91.25,43.93
+"Barcelo Al Jaddaf, Dubai",Bur Dubai,1113.0,8.6,5.7,"Deluxe Room, 20% F&B, with Complimentary Shuttle to Dubai Mall & La Mer Beach",1113.0,278.25,0.0
+Pulse Al jaddaf hotel,Bur Dubai,460.0,6.8,5.8,Superior Twin Room,511.0,115.0,9.98
+Element Dubai Airport,Garhoud,1136.0,8.4,9.5,King Studio with Sofa Bed - Complimentary Transfer to DXB Airport Shuttle Drop Off,1136.0,284.0,0.0
+Riu Dubai Beach Resort - All Inclusive,Palm Deira,1530.0,8.7,12.2,Double Room,2041.0,382.5,25.04
+Marriott Marquis Dubai,Deira,1280.0,9.0,8.2,Deluxe King Room with City View,1280.0,320.0,0.0
+"Savoy Crest Aparthotel, Bur Dubai",Bur Dubai,883.0,8.3,6.8,Deluxe Studio Suite - Free Bus service to La Mer Beach at Jumeirah with Beach Mats & Beach Towels,883.0,220.75,0.0
+Akas-Inn Hotel Apartment,Al Barsha,521.0,8.3,11.9,Studio Apartment,521.0,130.25,0.0
+Grand Hyatt Residence,Bur Dubai,1325.0,8.3,6.6,One-Bedroom Apartment,1325.0,331.25,0.0
+"Beautiful Studio in Bayz Towers by Danube, Business Bay",Business Bay,537.0,8.8,1.7,One-Bedroom Apartment,537.0,134.25,0.0
+"La Ville Hotel & Suites CITY WALK Dubai, Autograph Collection",Al Wasl,1859.0,8.8,1.9,"Deluxe Room, Guest room, 2 Double",1859.0,464.75,0.0
+Ink Hotel,Bur Dubai,844.0,8.2,7.6,Standard City View,844.0,211.0,0.0
+"voco Monaco Dubai by IHG, Adults Only, World Islands",Dubai,687.0,8.3,12.0,Deluxe Twin Room,687.0,171.75,0.0
+Staybridge Suites Dubai Financial Centre by IHG,Trade Centre,1599.0,8.6,1.8,Studio Suite,1599.0,399.75,0.0
+Pullman Dubai Jumeirah Lakes Towers,Jumeirah Lakes Towers,1693.0,8.0,17.8,Superior King Room,1693.0,423.25,0.0
+Grayton Hotel by Blazon Hotels,Bur Dubai,704.0,9.2,6.9,Double Room,704.0,176.0,0.0
+Anantara Downtown Dubai,Business Bay,1810.0,8.3,1.4,Premier City View Room,1810.0,452.5,0.0
+Jumeirah Mina Al Salam Dubai,Umm Suqeim,3834.0,9.3,11.0,Arabian Deluxe & Wild Wadi Waterpark™ Access,3834.0,958.5,0.0
+Silkhaus luxury building high floor 1BDR in Downtown,Zabeel,1306.0,9.6,1.0,Apartment,1306.0,326.5,0.0
+Elite Escapes - Socio Stylish 1 BHK Getaway,Dubai,1125.0,9.5,9.4,One-Bedroom Apartment,1125.0,281.25,0.0
+Royal Continental Hotel,Deira,694.0,8.9,9.0,Superior King Room,694.0,173.5,0.0
+Rixos Premium Dubai JBR,Jumeirah Beach Residence,2361.0,9.2,18.8,Deluxe king bed room,2361.0,590.25,0.0
+TIME Asma Hotel,Al Barsha,635.0,8.2,12.1,"Deluxe King Room - Inclusive of 20% Discount on F&B, Laundry and SPA",635.0,158.75,0.0
+Al Habtoor Polo Resort,Dubai,1281.0,8.6,16.2,Deluxe Room with Polo Elite Access,1281.0,320.25,0.0
+"V Hotel Dubai, Curio Collection by Hilton",Business Bay,1384.0,8.7,2.2,Deluxe King Room,1384.0,346.0,0.0
+Vida Dubai Marina & Yacht Club,Dubai Marina,1903.0,9.3,19.4,City View Deluxe Room with Private Balcony King,1903.0,475.75,0.0
+SITARA HOTEL APARTMENT,Bur Dubai,947.0,9.0,5.7,Deluxe King Studio,947.0,236.75,0.0
+Ibis World Trade Centre,Trade Centre,1509.0,8.7,3.4,Standard Double Room,1509.0,377.25,0.0
+Aloft Palm Jumeirah,Palm Jumeirah,1271.0,8.6,14.2,"Aloft King Room including Shopping Malls Shuttle Service, 20% off F&B, Spa & Abra Boat Tour Discount",1271.0,317.75,0.0
+"DAMAC Hills 2 Hotel, an Edge by Rotana Hotel",Dubai,481.0,8.1,26.5,Guest Room – Twin Beds,481.0,120.25,0.0
+TIME Oak Hotel & Suites,Barsha Heights (Tecom),975.0,8.5,14.9,Deluxe Pool View,975.0,243.75,0.0
+JW Marriott Hotel Marina,Dubai Marina,1931.0,9.5,18.6,"Deluxe City View Room, King Bed, Including direct access to Dubai Marina Mall & Marina Walk",1931.0,482.75,0.0
+Sparkle Towers by Swarovski - Dubai Marina - High Floor - Beach Resort Sunset view,Dubai Marina,1457.0,10.0,19.7,One-Bedroom Apartment,1457.0,364.25,0.0
+Hilton Dubai Al Habtoor City,Business Bay,1461.0,8.2,2.1,King Room,1461.0,365.25,0.0
+Silkhaus Burj Royale 1BDR with balcony in Downtown,Downtown Dubai,1301.0,8.0,0.8,Apartment,1301.0,325.25,0.0
+Studio One Hotel,Dubai,706.0,8.4,17.0,Standard Double Room,706.0,176.5,0.0
+Millennium Al Barsha,Al Barsha,1081.0,8.6,11.8,Deluxe King Room,1081.0,270.25,0.0
+"Luxus-Studio mit Private Beach in Top-Lage, Meerblick & Infinity Pool!",Palm Jumeirah,2264.0,9.8,16.4,One-Bedroom Apartment,2264.0,566.0,0.0
+Silkhaus new and modern 1BDR in Downtown heart in new tower,Downtown Dubai,1203.0,8.7,1.0,Apartment,1203.0,300.75,0.0
+White Sage - Elite Residence Studio,Downtown Dubai,1055.0,8.6,1.1,Studio,1055.0,263.75,0.0
+DAMAC Maison Distinction,Downtown Dubai,1988.0,9.1,1.1,Deluxe Room - City Skyline View,1988.0,497.0,0.0
+"Flora Creek Deluxe Hotel Apartments, Dubai",Deira,1071.0,8.5,8.5,Studio Apartment,1071.0,267.75,0.0
+7 Palm Jumeirah,Palm Jumeirah,1534.0,9.1,16.4,Studio with Balcony,1534.0,383.5,0.0
+Jumeirah Al Qasr Dubai,Al Sufouh,4004.0,9.4,11.3,Arabian Deluxe & Wild Wadi Waterpark™ Access,4004.0,1001.0,0.0
+Stay in Alexis Tower's Stunning Studio and Sleeps 2,Jebel Ali,690.0,9.4,30.5,Studio,690.0,172.5,0.0
+voco - Bonnington Dubai by IHG,Jumeirah Lakes Towers,1150.0,8.8,19.2,Standard King Room,1150.0,287.5,0.0
+"Aloft Me'aisam, Dubai",Dubai Production City,646.0,8.3,19.1,"Aloft Room - King Bed (Complimentary Shuttle to Sobha Realty Metro Station, JBR Beach & Mall of the Emirates)",646.0,161.5,0.0
+Sky luxe retreat- Luxury Hotel Suite W-Burj khalifa view,Downtown Dubai,812.0,8.3,1.1,One-Bedroom Apartment,1015.0,203.0,20.0
+Stella Stays Al-Barari,Dubai,1234.0,8.7,11.3,Standard Studio,1234.0,308.5,0.0
+Jumeirah Beach Villa,Umm Suqeim,920.0,7.2,6.0,One-Bedroom Apartment,920.0,230.0,0.0
+Knokey Dubai Creek Beach with Lagoon Pool access,Dubai Festival City,1117.0,8.9,7.8,One-Bedroom Apartment,1117.0,279.25,0.0
+Mövenpick Hotel & Apartments Bur Dubai,Bur Dubai,849.0,8.0,5.9,Superior Twin Room,849.0,212.25,0.0
+Sonder Business Bay,Business Bay,1442.0,8.5,0.8,One-Bedroom Apartment,1442.0,360.5,0.0
+Novotel Dubai Al Barsha,Al Barsha,748.0,7.7,12.5,Superior Double Room,748.0,187.0,0.0
+Park Inn by Radisson Dubai Motor City,Dubai,627.0,8.3,16.7,Standard Double or Twin Room,627.0,156.75,0.0
+25hours Hotel Dubai One Central,Trade Centre,1250.0,8.3,2.9,"Medium Bedouin Room (Free Shuttle Service to DIFC, Kite Beach, and Dubai Mall)",2083.0,312.5,39.99
+WonderfulStay at Paramount - Highest Infinity Pool - Burj Khalifa View - Brand New Luxury Apartments,Business Bay,3261.0,9.9,0.8,One-Bedroom Deluxe Apartment,3261.0,815.25,0.0
+Novotel Bur Dubai - Healthcare City,Bur Dubai,848.0,8.0,6.4,Superior Twin Room,848.0,212.0,0.0
+Better Living Apartment,Bur Dubai,657.0,7.2,7.6,Studio,657.0,164.25,0.0
+Blue Beach Tower The Walk JBR,Jumeirah Beach Residence,1365.0,8.2,18.8,Deluxe Room,1365.0,341.25,0.0
+ibis Styles Dubai Deira,Deira,764.0,8.2,9.2,Standard King Room,764.0,191.0,0.0
+"The St. Regis Dubai, The Palm",Palm Jumeirah,2249.0,9.2,16.1,"Deluxe Guest Room with 1 King, City view",2249.0,562.25,0.0
+Staycae Holiday Homes - Damac Towers By Paramount,Business Bay,1057.0,8.0,2.2,One-Bedroom Apartment,1057.0,264.25,0.0
+"JA Ocean View Hotel, Jumeirah Beach Dubai",Jumeirah Beach Residence,1733.0,8.7,19.7,Sea View Room with Balcony,2166.0,433.25,19.99
+Elegant Living in a Prime Location Shamal Residence,Dubai,1003.0,8.7,17.6,Apartment,1003.0,250.75,0.0
+Signature Hotel Apartments and Spa,Dubai Marina,1133.0,7.9,20.1,Superior Studio,1133.0,283.25,0.0
+Stylish 1-Bedroom Retreat in Amal Tower Sports City,Dubai,878.0,7.9,18.1,Apartment,878.0,219.5,0.0
+"Arabian Park Dubai, an Edge by Rotana Hotel",Bur Dubai,668.0,8.6,6.2,City View Room - Twin Beds,668.0,167.0,0.0
+Jacob's Garden Hotel,Bur Dubai,615.0,8.0,7.1,Deluxe Double Room,615.0,153.75,0.0
+Aspen Chalets by Kempinski Hotel Mall of The Emirates,Al Barsha,2895.0,9.4,11.4,Grand Deluxe Room City View,2895.0,723.75,0.0
+Unlock Metropolis Business Bay,Business Bay,1108.0,8.6,1.7,Deluxe Studio with Kitchen and Balcony,1108.0,277.0,0.0
+Ocean Heights Palm View 1 bedroom,Dubai Marina,874.0,10.0,17.1,Apartment,971.0,218.5,9.99
+High rise studio near Dubai Mall,Business Bay,923.0,10.0,2.6,One-Bedroom Apartment,923.0,230.75,0.0
+Spacious and Stunning Studio in The Heart of JVC,Dubai,878.0,10.0,17.2,Studio,878.0,219.5,0.0
+Aloft Dubai Creek,Deira,940.0,8.6,8.6,"Aloft Room, Guest room, King, City view",940.0,235.0,0.0
+"Rose Garden Hotel Apartments - Al Barsha, Near Metro Station",Al Barsha,806.0,8.3,12.1,Studio Apartment,806.0,201.5,0.0
+White Sage - Gorgeous Apartment in JLT Near the Metro Station,Jumeirah Lakes Towers,929.0,8.5,18.7,One-Bedroom Apartment,929.0,232.25,0.0
+151 Residence Jumeirah Gardens,Al Satwa,612.0,8.5,3.5,Studio,612.0,153.0,0.0
+"Lux Sky Residence, Burj Crown, Opera Boulevard View by Dubai Mall",Downtown Dubai,3364.0,9.6,300.0,Superior One-Bedroom Apartment with Balcony,3364.0,841.0,0.0
+Private Rooms in CoLiving Apartments UP Tower DIFC,Trade Centre,757.0,6.6,2.5,Single Room with Shared Bathroom,757.0,189.25,0.0
+Your Elegant Palm Paradise- Fully Equipped,Palm Jumeirah,1859.0,8.4,16.4,Studio Apartment,1859.0,464.75,0.0
+Ritz Carlton DIFC Downtown Dubai,Trade Centre,3256.0,8.9,2.1,"Deluxe Room One King or Two Double beds, Non Smoking",3256.0,814.0,0.0
+Movenpick Jumeirah Village Triangle,Dubai,931.0,8.2,19.3,Superior King Room with City View (Comp. Shuttle to World Trade Centre),931.0,232.75,0.0
+GuestReady - Contemporary living in Dubai Marina,Dubai Marina,4142.0,8.2,19.0,Two-Bedroom Apartment,4142.0,1035.5,0.0
+"Luxurious Studio with Stunning Burj Khalifa, Pool & Lake Views Steps from Dubai Mall",Downtown Dubai,1406.0,9.5,450.0,One-Bedroom Apartment,1406.0,351.5,0.0
+Roda Al Murooj Residences,Trade Centre,1765.0,8.4,1.0,One-Bedroom Apartment,1765.0,441.25,0.0
+Best Location in Dubai marina,Dubai Marina,1942.0,8.4,18.3,Two-Bedroom Apartment,1942.0,485.5,0.0
+Grand Ambassador Hotel,Bur Dubai,852.0,8.1,7.8,Standard Room,852.0,213.0,0.0
+Millennium Plaza Downtown Suites,Trade Centre,1159.0,7.6,2.9,Junior Suite,1159.0,289.75,0.0
+Mark Inn Hotel Deira,Deira,623.0,8.7,9.2,Standard Queen Room,623.0,155.75,0.0
+Calm Studio With Relaxing Balcony Atmosphere in Al Barari,Dubai,878.0,8.7,11.3,Studio,878.0,219.5,0.0
+Hilton Dubai Creek Hotel & Residences,Deira,1141.0,8.5,8.2,King Studio,1141.0,285.25,0.0
+SIMPLY COMFORT in Sarai Palm Jumeirah,Palm Jumeirah,2987.0,8.3,14.9,One-Bedroom Apartment,3319.0,746.75,10.0
+Stunning 1BHK Apt Harbor View,Dubai Creek,869.0,8.3,7.5,Deluxe One-Bedroom Apartment with Harbour View,869.0,217.25,0.0
+2BR Marina View Luxury Apartment,Jumeirah Beach Residence,1176.0,8.4,19.7,Apartment,1176.0,294.0,0.0
+Luxury-Designer 1 BR Sea View,Jumeirah Beach Residence,1931.0,9.2,18.0,One-Bedroom Apartment,1931.0,482.75,0.0
+"Exquisite, luxe 1BD Apartment, Unparalleled Sea Views, Prime Dubai Marina Location & Full Kitchen by ""La Buena Vida Holiday Homes",Dubai Marina,1873.0,9.3,17.1,One-Bedroom Deluxe Apartment,1873.0,468.25,0.0
+Al Khoory Sky Garden Hotel,Deira,780.0,8.5,9.3,Sky Classic Room,780.0,195.0,0.0
+Knokey Luxury 1BR Apartments - 5 min walk to Burj Khalifa & Dubai Mall & Dubai Fountain,Downtown Dubai,1685.0,9.4,100.0,One-Bedroom Deluxe Apartment,1685.0,421.25,0.0
+Luxury 1BR Burj Khalifa View Walk to Dubai Mal,Downtown Dubai,1748.0,8.2,300.0,One-Bedroom Apartment,1748.0,437.0,0.0
+Luxury 4-Bed Escape in Downtown Dubai That Sleeps 9,Downtown Dubai,5739.0,9.5,350.0,Apartment,5739.0,1434.75,0.0
+Swissôtel Al Ghurair Dubai - Deira & Creek,Deira,1174.0,8.3,9.3,Classic King Room,1174.0,293.5,0.0
+Luxury 1-Bedroom Apartment with Burj Khalifa view,Downtown Dubai,1657.0,9.8,450.0,One-Bedroom Apartment,1657.0,414.25,0.0
+Novotel World Trade Centre Dubai,Trade Centre,1422.0,8.2,3.4,Superior Double Room,1422.0,355.5,0.0
+Panoramic Sea Views Studio Apartment - Marina Dubai,Dubai Marina,824.0,7.1,18.4,One-Bedroom Apartment,824.0,206.0,0.0
+Breathtaking 1 Bed Room With Full Burj Khalifa and Fountain View- Burj Crown,Downtown Dubai,921.0,10.0,350.0,One-Bedroom Apartment,921.0,230.25,0.0
+Savoy Suites Hotel Apartment - Newly Renovated,Bur Dubai,897.0,8.4,7.0,Studio Suite - Free Bus service to La Mer Beach at Jumeirah with Beach Mats & Beach Towels,897.0,224.25,0.0
+Canal Central Hotel Business Bay,Business Bay,1018.0,8.6,1.8,Superior Room City View with free access to Hotel's private beach at Palm - Jumeirah,1018.0,254.5,0.0
+The Boulevard Suite Luxury near Burj Khalifa,Downtown Dubai,2202.0,10.0,350.0,One-Bedroom Apartment with Balcony and City View,2202.0,550.5,0.0
+Park Regis by Prince Dubai Islands,Palm Deira,933.0,7.9,13.4,Standard Queen Room,1278.0,233.25,27.0
+Hotel Indigo Dubai Downtown by IHG,Business Bay,1763.0,8.8,1.4,Standard King Room with City View,1763.0,440.75,0.0
+Jumeirah Living World Trade Centre Dubai,Trade Centre,2102.0,8.6,4.0,One-Bedroom Residence with Private Jacuzzi,2102.0,525.5,0.0
+"Luxury Apt Burj Khalifa, Sunset and Lagoon view",Dubai,2210.0,10.0,4.1,One-Bedroom Apartment,2210.0,552.5,0.0
+Azizi Riviera Meydan,Dubai,752.0,10.0,4.3,One-Bedroom Apartment,752.0,188.0,0.0
+Park Hyatt Dubai,Deira,3152.0,9.1,8.2,King Room,3152.0,788.0,0.0
+Benitah Family and Shared rooms Al Nahda 2,Al Qusais,136.0,9.1,14.1,Economy Quadruple Room with Shared Bathroom,151.0,34.0,9.93
+Dimorelux,Palm Jumeirah,1603.0,8.3,15.9,One-Bedroom Apartment,1603.0,400.75,0.0
+Millennium Central Downtown,Business Bay,1368.0,7.6,1.7,Standard King Room,1368.0,342.0,0.0
+Graceful 1BR at Merano Business Bay by Deluxe Holiday Homes,Business Bay,892.0,7.6,1.7,One-Bedroom Apartment,892.0,223.0,0.0
+Aloft Dubai Airport,Garhoud,700.0,8.5,9.5,Aloft King Room - Complimentary DXB Airport Shuttle Drop Off,700.0,175.0,0.0
+Highest Infinity Pool Burj Khalifa View,Business Bay,2149.0,8.5,0.8,One-Bedroom Apartment,2149.0,537.25,0.0
+2BR + Maid With Fantastic View,Trade Centre,2398.0,9.6,1.7,Three-Bedroom Apartment,2398.0,599.5,0.0
+Prime Gardens,Al Barsha,675.0,9.5,15.2,Two-Bedroom Apartment,675.0,168.75,0.0
+2 bedroom with maid Exclusive Burj Khalifa View,Trade Centre,3103.0,9.1,1.7,Three-Bedroom Apartment,3103.0,775.75,0.0
+"Business-Ready Executive Studio with Burj View, Upside Living 2001",Business Bay,1281.0,9.1,2.1,Studio Apartment,1281.0,320.25,0.0
+Jumeirah Beach Residence,Jumeirah Beach Residence,443.0,9.1,19.2,One-Bedroom Apartment,443.0,110.75,0.0
+Mövenpick Hotel Jumeirah Lakes Towers Dubai,Jumeirah Lakes Towers,1287.0,8.5,19.7,Superior Twin Room - Includes daily access to Riva Beach Club with free shuttle service,1287.0,321.75,0.0
+"Lapita, Dubai Parks and Resorts, Autograph Collection",Dubai World Central,1447.0,8.6,41.2,"Room with Theme Park Access, Guest room, 1 King, Resort view (Complimentary Beach Access to Sheraton JBR and Shuttle to MOE & Dubai Mall)",1447.0,361.75,0.0
+Superb 1Bed Marina View pool JBR Beach Parking,Dubai Marina,1655.0,7.9,19.8,One-Bedroom Apartment,1655.0,413.75,0.0
+Airstay - Chic Studio - Marina View - Dubai Marina - Monthly Offer Available,Dubai Marina,1275.0,10.0,18.8,Studio,1275.0,318.75,0.0
+2BR with Mini-Golf in DT Dubai with Partial Burj Khalifa View,Downtown Dubai,4034.0,9.6,350.0,Two-Bedroom Apartment,4034.0,1008.5,0.0
+Asiana Grand Hotel,Deira,819.0,8.7,9.5,Deluxe King Room – Beach transfer & Free Shuttle to Deira city center mall,819.0,204.75,0.0
+Carlton Downtown Hotel,Trade Centre,1774.0,8.5,1.6,Deluxe Room,1774.0,443.5,0.0
+The St. Regis Downtown Dubai,Business Bay,2454.0,9.2,1.0,"Superior Double Room with Two Double Beds, Partial Burj Khalifa or Downtown View including Signature St. Regis Butler Service",2454.0,613.5,0.0
+Great View from 63th Floor! Amazing Pool with Burj View! Grande Signature!,Dubai,3408.0,9.2,20.0,Two-Bedroom Apartment,3408.0,852.0,0.0
+Swissôtel Al Murooj Dubai,Trade Centre,1548.0,8.8,1.0,Classic King Room,1548.0,387.0,0.0
+MAZMI CASA,Bur Dubai,1499.0,9.4,8.1,Deluxe Double or Twin Room with River View,1499.0,374.75,0.0
+Frank Porter - Bayz Tower by Danube,Business Bay,591.0,6.4,1.7,Apartment,591.0,147.75,0.0
+InterContinental Residence Suites Dubai Festival City by IHG,Dubai Festival City,1417.0,8.8,8.5,King Studio Suite,1417.0,354.25,0.0
+Royal suites Dunya tower Burj Khalifa St Kings,Downtown Dubai,1619.0,9.2,1.1,Superior King Room,1619.0,404.75,0.0
+DAMAC Maison Mall Street,Downtown Dubai,2749.0,9.0,1.2,One Bedroom City View King with kitchenette and Private Balcony,2749.0,687.25,0.0
+Grandeur Hotel Al Barsha,Al Barsha,882.0,7.8,11.8,Executive Room,882.0,220.5,0.0
+Avani Deira Dubai Hotel,Deira,1006.0,7.8,10.2,AVANI Room,1006.0,251.5,0.0
+Classy 1BR at Bayz by Danube Business Bay by Deluxe Holiday Homes,Business Bay,1038.0,9.0,1.7,One-Bedroom Apartment,1038.0,259.5,0.0
+White Sage Spacious 1BR at Marina Promenade,Dubai Marina,1059.0,9.4,19.4,One-Bedroom Apartment,1177.0,264.75,10.03
+Mövenpick Grand Al Bustan,Garhoud,909.0,8.3,9.3,"Classic King Room, 20% off on F&B, Complimentary shuttle to Dubai Festival City Mall",3029.0,227.25,69.99
+Hyatt Regency Creek Heights Residences,Bur Dubai,1634.0,8.9,6.7,Studio with Kitchen,1634.0,408.5,0.0
+Mövenpick Hotel Apartments Al Mamzar Dubai,Deira,738.0,7.4,13.4,Superior King Room,738.0,184.5,0.0
+"3BR with Gaming Lounge, Burj Khalifa, Fountain View",Downtown Dubai,4862.0,9.5,300.0,Three-Bedroom Apartment,5402.0,1215.5,10.0
+Jannah Place Dubai Marina,Dubai Marina,1151.0,7.8,19.8,Studio Apartment,1151.0,287.75,0.0
+Knight Armour Hotel,Deira,460.0,6.6,8.9,Deluxe Single Room with 20% discount on F&B,460.0,115.0,0.0
+"Citadines Culture Village Dubai, Waterfront Jaddaf",Bur Dubai,899.0,8.7,7.5,Standard Room with and without Balcony (Main Road),899.0,224.75,0.0
+La Quinta by Wyndham Dubai Jumeirah,Bur Dubai,813.0,7.9,6.1,"Deluxe Room, 2 Twin Beds - Complimentary Transfer to La Mer Beach, Dubai Mall / Burj Khalifa Metro Station",813.0,203.25,0.0
+SIRO One Za'abeel,Trade Centre,2321.0,8.9,4.1,"SIRO Plus King, complimentary fitness class and nutrition consultation",2901.0,580.25,19.99
+DoubleTree by Hilton Dubai Jumeirah Beach,Jumeirah Beach Residence,1748.0,8.5,20.0,One-Bedroom Suite - City View,1748.0,437.0,0.0
+"Executive Studio at Upside Living, Business Travel Ready",Business Bay,1281.0,10.0,2.1,Studio,1281.0,320.25,0.0
+Awesome Studio Apartment with Burj Khalifa View at Business Bay,Business Bay,753.0,10.0,1.7,Studio Apartment,753.0,188.25,0.0
+Hyba Heritage Hotel,Deira,382.0,8.0,8.4,Deluxe Suite,382.0,95.5,0.0
+"Radisson Blu Hotel, Dubai Deira Creek",Deira,1248.0,8.4,8.6,"Standard Room with Balcony and Creek View - includes Complimentary Shuttle to Kite Beach, Dubai Mall / Burj Khalifa",1248.0,312.0,0.0
+The H Dubai,Trade Centre,1381.0,8.8,4.1,Deluxe Twin Room,1381.0,345.25,0.0
+One bedroom apartment sea view partially,Jumeirah Beach Residence,1799.0,8.8,18.9,Apartment with Sea View,1799.0,449.75,0.0
+"Beautiful 1BR Apartment at Wilton Park Residences, MBR by Deluxe Holiday Homes",Dubai,1383.0,8.8,4.3,One-Bedroom Apartment,1383.0,345.75,0.0
+DAMAC Maison Canal Views,Business Bay,1889.0,9.3,1.4,Deluxe Room with kitchenette - City Skyline View,1889.0,472.25,0.0
+"Azure - 1-Bed Luxury by Crystal Lagoon, Downtown",Dubai,723.0,9.3,2.9,One-Bedroom Apartment,723.0,180.75,0.0
+Jumeirah Marsa Al Arab Dubai,Beach & Coast,7736.0,6.9,10.1,Marina Deluxe Room with Marina & Dubai Skyline View - includes Private Terrace (11 sqm),7736.0,1934.0,0.0
+"Element Me'aisam, Dubai",Dubai Production City,750.0,8.8,19.0,"Studio Apartment – King Bed (Complimentary Breakfast & Shuttle to Sobha Realty Metro Station, JBR Beach & Mall of the Emirates)",750.0,187.5,0.0
+Riviera Hotel,Deira,849.0,8.4,8.7,Standard Double Bed-Souk View with Balcony- Free Beach Transfer,1022.0,212.25,16.93
+Best Western Plus Pearl Creek,Deira,587.0,7.5,8.7,Standard King Room,587.0,146.75,0.0
+Elegant Studio w Balcony View near Downtown Dubai,Dubai,836.0,8.0,4.5,Studio,836.0,209.0,0.0
+Retreat by Voye Homes inside Anantara with Resort Access & Private Beach in Palm Jumeirah,Palm Jumeirah,1469.0,8.5,14.2,One-Bedroom Apartment with Sea View and Balcony,1469.0,367.25,0.0
+Millennium Lakeview Hotel Formerly Copthorne Lakeview Hotel,Dubai Investment Park,767.0,8.1,23.9,Superior King Room,767.0,191.75,0.0
+Dubai Marine Beach Resort & Spa,Jumeirah,1180.0,8.4,4.4,Standard Room,1180.0,295.0,0.0
+Urban Studio at The Address Residences Dubai Marina by Deluxe Holiday Homes,Dubai Marina,1184.0,10.0,18.7,Studio,1184.0,296.0,0.0
+Al Manar Grand Hotel Apartment,Bur Dubai,525.0,7.9,6.4,Double Double Standard,525.0,131.25,0.0
+Fairmont The Palm,Palm Jumeirah,2646.0,8.6,16.3,Fairmont Heritage King Room,2646.0,661.5,0.0
+Atlantis The Royal,Palm Jumeirah,5258.0,9.2,16.0,Seascape King Room,5258.0,1314.5,0.0
+Downtown Sky High Luxury Apartment I City And Sea Views I Opp Dubai Mall Burj Khalifa,Downtown Dubai,3549.0,8.7,300.0,Two-Bedroom Apartment,3549.0,887.25,0.0
+Modern 1Br in the Heart of Dubai by SIMPLY COMFORT,Business Bay,2450.0,10.0,2.0,One-Bedroom Apartment,2450.0,612.5,0.0
+XVA Art Hotel,Bur Dubai,769.0,8.8,8.1,Single Room,769.0,192.25,0.0
+Large Studio Attached to Metro - Dubai Marina Diamond3,Dubai Marina,770.0,6.9,17.9,Studio Apartment with Balcony,770.0,192.5,0.0
+Highest infinity Pool in Downtown Dubai,Business Bay,3027.0,8.9,0.8,Deluxe One-Bedroom Apartment,3027.0,756.75,0.0
+Ibis Styles Dragon Mart Dubai,International City,417.0,7.7,15.0,Standard Twin Room,417.0,104.25,0.0
+Alsahel Beach Holiday,Jumeirah Beach Residence,246.0,10.0,19.2,Single Bed in Dormitory Room,246.0,61.5,0.0
+Unlock Waters Edge,Business Bay,1657.0,8.3,1.7,Studio with Canal View,1657.0,414.25,0.0
+"Burj Crown - First Class Boulevard View, 9 min Walk Dubai Mall",Downtown Dubai,4101.0,9.1,250.0,Two-Bedroom Deluxe Apartment with Balcony,4101.0,1025.25,0.0
+Majestic Cove Hotel - Formerly Le Méridien Fairway,Garhoud,1036.0,8.8,8.8,Deluxe King Room,1036.0,259.0,0.0
+"Element Al Mina, Dubai Jumeirah",Bur Dubai,1136.0,8.6,6.1,Studio 1 King Bed - Complimentary Transfer to Dubai Mall / Burj Khalifa & DXB Airport Shuttle Drop Off,1136.0,284.0,0.0
+Sea & Palm View 2BR JBR BeachGem,Jumeirah Beach Residence,4407.0,9.2,18.4,Two-Bedroom Apartment with Balcony and Sea View,4407.0,1101.75,0.0
+Delano Dubai at Bluewaters,Beach & Coast,2911.0,8.9,19.7,Rising Light Twin Guest Room with Balcony and Resort View,2911.0,727.75,0.0
+LUX 2BR close to Dubai Mall and Burj Khalifa,Downtown Dubai,6327.0,9.3,350.0,Two-Bedroom Apartment,6327.0,1581.75,0.0
+Katkeys,Dubai,294.0,9.3,14.1,King Room with Balcony,368.0,73.5,20.11
+Cozy 1-Bedroom Apartment at West Avenue Tower near Marina beach,Dubai Marina,1066.0,9.0,19.0,One-Bedroom Apartment,1066.0,266.5,0.0
+New Fairmont Residence with private beach on PalmJumeirah,Palm Jumeirah,4915.0,9.0,16.2,Two-Bedroom Apartment with Balcony and Sea View,6143.0,1228.75,19.99
+Luxury Business Bay Residence Z Tower,Business Bay,565.0,9.0,1.6,One-Bedroom Apartment,642.0,141.25,11.99
+Brown Stone - Golf Course Dubai Cricket Stadium,Dubai,487.0,7.3,18.9,One-Bedroom House,487.0,121.75,0.0
+City Seasons Hotel Dubai,Deira,725.0,8.0,9.2,Premium Twin Room,853.0,181.25,15.01
+Royal Ascot Hotel,Bur Dubai,951.0,7.5,7.4,Superior Deluxe Room,951.0,237.75,0.0
+Cozy Studio in JVC,Dubai,483.0,7.5,17.2,One-Bedroom Apartment,483.0,120.75,0.0
+Majestic 1 Bedroom Flat Perfect for 4 in Marina,Dubai Marina,1129.0,8.4,19.0,Apartment,1129.0,282.25,0.0
+Sonder at JBR The Walk,Jumeirah Beach Residence,2052.0,8.9,18.8,One-Bedroom Apartment with City View,2052.0,513.0,0.0
+Magnificent 2BR in The Brand New The Diplomat,Dubai,1380.0,8.9,21.8,Apartment,1380.0,345.0,0.0
+"Forte Tower - New Elite Opera View, Opposite Burj Khalifa and Dubai Mall",Downtown Dubai,6654.0,8.9,250.0,Deluxe Apartment,6654.0,1663.5,0.0
+Dubai Marina larivera,Dubai Marina,3749.0,7.4,19.2,Two-Bedroom Apartment,3749.0,937.25,0.0
+"Burj Crown - New Sky High, Near Burj Khalifa, Boulevard View, Opposite Dubai Mall",Downtown Dubai,5144.0,8.9,250.0,Deluxe Apartment,5144.0,1286.0,0.0
+Hyatt Regency Dubai Creek Heights,Bur Dubai,1465.0,8.8,6.8,Deluxe King Room,1465.0,366.25,0.0
+GLOBALSTAY J One Tower Apartments at Pearl of UAE,Business Bay,1684.0,7.8,1.5,Studio,1981.0,421.0,14.99
+Jumeirah Living Marina Gate Dubai,Dubai Marina,1636.0,9.2,17.4,Executive Studio,1636.0,409.0,0.0
+SIMPLY COMFORT Apartments at Nobles Tower Luxury Burj View,Business Bay,3991.0,9.6,2.1,Two-Bedroom Deluxe Apartment with Balcony,3991.0,997.75,0.0
+"High-Rise Chic, Burj Crown, Opera Boulevard View, by Dubai Mall",Downtown Dubai,4142.0,8.6,300.0,Two-Bedroom Deluxe Apartment with Balcony,4142.0,1035.5,0.0
+Studio in the heart of Sports City -great view & amenities!,Dubai,809.0,9.0,18.0,Studio Apartment,809.0,202.25,0.0
+"Charming 1BR Apartment in Vera Tower, Business Bay by Deluxe Holiday Homes",Business Bay,921.0,9.0,1.4,One-Bedroom Apartment,921.0,230.25,0.0
+Comfortable Studio Apartment for 4 in DIFC,Trade Centre,1066.0,9.0,1.6,Studio,1066.0,266.5,0.0
+LUXE | 2BR | Burj Khalifa View | Dubai Mall Access,Zabeel,2988.0,9.0,1.1,Deluxe Apartment,2988.0,747.0,0.0
+"Address Marina Mall Suites - Full Marina Views, Balcony, Kitchen & Parking",Dubai Marina,2213.0,7.2,18.7,Suite,2213.0,553.25,0.0
+"Burj Khalifa Lake Vicinity Perfect 1BR Escape, Residences 7, Downtown Dubai by Deluxe Holiday Homes",Downtown Dubai,1233.0,9.0,400.0,One-Bedroom Apartment,1233.0,308.25,0.0
+LUX 1BR Burj Khalifa and Fountain Views,Downtown Dubai,4781.0,9.5,350.0,One-Bedroom Apartment,4781.0,1195.25,0.0
+"Lux Escape, Burj Crown Opera View, Near Dubai Mall",Downtown Dubai,4274.0,9.0,300.0,Two-Bedroom Deluxe Apartment with Balcony,4274.0,1068.5,0.0
+TURQUOISE - Downtown Dubai 1 BEDROOM APARTMENT Business Bay - CANAL VIEW,Business Bay,934.0,8.4,1.4,One-Bedroom Apartment,934.0,233.5,0.0
+"Charming 1BR Apartment in Sparkle Tower 1, Dubai Marina by Deluxe Holiday Homes",Dubai Marina,1757.0,8.4,19.7,One-Bedroom Apartment,1757.0,439.25,0.0
+Address Beach Resort,Beach & Coast,4241.0,9.3,20.1,Deluxe Marina City View Room & World's Highest Infinity Pool Access,6058.0,1060.25,29.99
+Nassima Tower Hotel Apartments,Trade Centre,1180.0,7.6,3.3,One-Bedroom Apartment,1180.0,295.0,0.0
+"Charming Studio Apartment at Bay Square - 09, Business Bay by Deluxe Holiday Homes",Business Bay,937.0,7.6,1.4,Studio,937.0,234.25,0.0
+Elegant 2 Bedroom Apartment in Sobha Hartland,Dubai,682.0,8.0,4.3,Two-Bedroom Apartment with Balcony,682.0,170.5,0.0
+Burj Crown - Downtown Elegance Opera Boulevard View by Dubai Mall,Downtown Dubai,5314.0,8.8,250.0,Two-Bedroom Deluxe Apartment with Balcony,5314.0,1328.5,0.0
+Jumeirah Beach Hotel Dubai,Umm Suqeim,2139.0,8.8,10.2,Ocean View Deluxe Room - includes Wild Wadi Waterpark™ and KiDS Club access,2139.0,534.75,0.0
+3 Bed with Private Beach In Palm Jumeirah,Palm Jumeirah,5300.0,8.8,18.5,Three-Bedroom Apartment,6624.0,1325.0,19.99
+Unbeatable Price Luxe 1BR in Prime Location by Deluxe Holiday Homes,Dubai Marina,1378.0,9.0,20.3,One-Bedroom Apartment,1378.0,344.5,0.0
+Cozy urban stay near Dubai Mall,Dubai,744.0,10.0,4.9,One-Bedroom Apartment,744.0,186.0,0.0
+Majestic Tower,Business Bay,787.0,10.0,1.5,One-Bedroom Apartment,787.0,196.75,0.0
+Raffles The Palm,Palm Jumeirah,2414.0,9.0,18.9,Premier Ocean View Room With balcony,2414.0,603.5,0.0
+"Beautiful 1BR Apartment in Harbour Gate 1, Dubai Creek Harbour by Deluxe Holiday Homes",Dubai Creek,1150.0,9.0,7.6,One-Bedroom Apartment,1150.0,287.5,0.0
+Jumeirah Dar Al Masyaf Dubai,Al Sufouh,4464.0,9.3,11.3,Palm House Garden Room,4464.0,1116.0,0.0
+Barceló Residences Dubai Marina,Dubai Marina,1519.0,8.4,18.1,Studio,1519.0,379.75,0.0
+Lux Living on Palm Jumeirah With Pool & Beach Access,Palm Jumeirah,3806.0,6.7,16.1,Three-Bedroom Apartment,3806.0,951.5,0.0
+Spacious Studio in Damac Maison Prive Canal Views,Business Bay,1265.0,9.0,1.2,One-Bedroom Apartment,1265.0,316.25,0.0
+The Villa Jumeirah,Umm Suqeim,947.0,8.7,9.7,Studio with Garden View,947.0,236.75,0.0
+Amazing 2 bedroom with full burj view,Downtown Dubai,5301.0,9.3,0.7,Two-Bedroom Apartment,5301.0,1325.25,0.0
+Deluxe Villa Rooms in Dubai near Airport,Dubai,1799.0,7.9,17.1,King Room,1799.0,449.75,0.0
+"La Buena Vida Holiday Homes - Exquisite Spacious Luxe 1BR Apt , Full Marina View, Kitchen, 5 Min to Beach, JBR and Marina",Dubai Marina,1717.0,9.5,19.6,One-Bedroom Deluxe Apartment,1717.0,429.25,0.0
+Sofitel Dubai The Palm Resort & Spa,Palm Jumeirah,1965.0,8.6,15.4,Classic Room Courtyard View,1965.0,491.25,0.0
+Bliss at the Fields,Dubai,4828.0,9.4,11.2,Villa,4828.0,1207.0,0.0
+AlRaef Luxury Apartments,Deira,1988.0,6.4,12.0,One-Bedroom Premium Apartment,1988.0,497.0,0.0
+White Sage - Premium Furnished Studio With Large Balcony,Business Bay,972.0,7.6,1.2,Studio,972.0,243.0,0.0
+Elegant Villa Rooms in Dubai near Airport,Dubai,1799.0,7.5,17.1,King Room,1799.0,449.75,0.0
+Al Ashrafia Saray - Extraordinary Studio in Canal View,Business Bay,939.0,7.5,1.4,One-Bedroom Apartment,939.0,234.75,0.0
+Knokey Bay Square,Business Bay,852.0,9.0,1.4,One-Bedroom Apartment,852.0,213.0,0.0
+Al Khoory Hotel Apartments Al Barsha,Al Barsha,798.0,8.6,12.2,Studio,798.0,199.5,0.0
+Adagio Premium Dubai Al Barsha,Al Barsha,1006.0,8.3,12.5,One-Bedroom Apartment,1006.0,251.5,0.0
+Upgraded Apartment with Stunning Burj Khalifa View,Downtown Dubai,4010.0,8.9,1.0,Two-Bedroom Apartment,4010.0,1002.5,0.0
+Plush 1BR at Act One Act Two Tower 2 Downtown Dubai by Deluxe Holiday Homes,Downtown Dubai,1427.0,8.9,350.0,One-Bedroom Apartment,1427.0,356.75,0.0
+Address Beach Residence,Jumeirah Beach Residence,13253.0,9.4,20.0,One-Bedroom Apartment,13253.0,3313.25,0.0
+EasyGo - Azizi Riviera 15 Community View,Dubai,727.0,8.7,3.8,Studio with Balcony,727.0,181.75,0.0
+Splendid Villa Rooms near Dubai Airport,Dubai,1893.0,6.5,14.2,King Room,1893.0,473.25,0.0
+Frank Porter - 29 Boulevard,Downtown Dubai,1991.0,8.7,450.0,Apartment,1991.0,497.75,0.0
+"Grosvenor House, a Luxury Collection Hotel, Dubai",Dubai Marina,1988.0,9.6,17.8,"Deluxe Room, With Complimentary Resort Beach & Pool Access, Guest room, 1 King",1988.0,497.0,0.0
+SO/ Uptown Dubai,Dubai,1522.0,8.9,19.9,Collection King Room,1522.0,380.5,0.0
+Splendid Apartments with Burj Khalifa and Fountain View,Downtown Dubai,5301.0,7.9,0.7,Three-Bedroom Apartment,5301.0,1325.25,0.0
+"Cozy Apartment in JVC, Dubai",Dubai,871.0,9.0,16.8,One-Bedroom Apartment,871.0,217.75,0.0
+Creek Beachfront Heaven: 1BR Luxe Harbor Flat,Dubai Creek,1470.0,10.0,7.7,One-Bedroom Apartment,1470.0,367.5,0.0
+Vida Emirates Hills,Dubai,1248.0,9.1,17.4,City View Deluxe Room King,1560.0,312.0,20.0
+SUHA Mina Rashid Hotel Apartments,Bur Dubai,789.0,8.6,6.7,Deluxe Studio,789.0,197.25,0.0
+"Exclusive 1-BDR Stay - Zada Tower, Business Bay",Business Bay,628.0,8.6,1.6,One-Bedroom Apartment,628.0,157.0,0.0
+Al Khoory Courtyard Hotel,Dubai,900.0,8.1,4.4,Superior Double or Twin Room,900.0,225.0,0.0
+Luxury Studio - Downtown Dubai - Near Burj Khalifa,Business Bay,1460.0,10.0,1.2,One-Bedroom Apartment,1460.0,365.0,0.0
+Luxe Comfort 1BR in Binghatti Venus-05,Dubai,920.0,10.0,17.6,One-Bedroom Standard Apartment,920.0,230.0,0.0
+Welcoming Studio at Sky Gardens DIFC By Deluxe Holiday Homes,Zabeel,952.0,7.2,2.1,One-Bedroom Apartment,952.0,238.0,0.0
+sand and beach haven at Ajman Corniche!,Dubai,1568.0,9.5,28.1,Two-Bedroom Apartment,1568.0,392.0,0.0
+Peony Hotel,Dubai Investment Park,729.0,7.8,23.8,Double or Twin Room,729.0,182.25,0.0
+"Chic 1BR in The Residence at Marina Gate 2, Dubai Marina by Deluxe Holiday Homes",Dubai Marina,1922.0,10.0,17.4,One-Bedroom Apartment,1922.0,480.5,0.0
+Spacious Studio at Sky Gardens DIFC by Deluxe Holiday Homes,Zabeel,1016.0,10.0,2.1,Studio,1016.0,254.0,0.0
+Jumeirah Al Naseem Dubai,Umm Suqeim,4888.0,9.1,10.8,Resort Deluxe & Wild Wadi Waterpark™ Access,4888.0,1222.0,0.0
+Stunning 1 Bdr luxury residence at JVC,Dubai,1225.0,9.1,16.5,One-Bedroom Apartment,1225.0,306.25,0.0
+Modern and Classic 1BDR In RP Heights Downtown,Downtown Dubai,804.0,5.0,1.2,One-Bedroom Apartment,804.0,201.0,0.0
+Elite Byblos Hotel,Al Barsha,794.0,8.4,11.7,Classic King Room,794.0,198.5,0.0
+Refined 1BR Retreat in The Point Tower - Marina,Dubai Marina,1129.0,8.4,19.6,Apartment,1129.0,282.25,0.0
+Palazzo Versace Dubai,Bur Dubai,2857.0,8.8,7.8,Deluxe Versace Room with City View,2857.0,714.25,0.0
+Holiday Inn Express Dubai Airport by IHG,Garhoud,806.0,8.1,10.2,Deluxe King Room - Non-Smoking,806.0,201.5,0.0
+"Exclusive Studio at Sky Gardens, DIFC by Deluxe Holiday Homes",Zabeel,958.0,8.1,2.1,Studio,958.0,239.5,0.0
+SUNRISE HOMES - Beautiful Marina Studio near JBR Beach,Dubai Marina,1108.0,8.0,17.8,One-Bedroom Apartment,1108.0,277.0,0.0
+"Amwaj Rotana, Jumeirah Beach - Dubai",Jumeirah Beach Residence,1674.0,8.9,19.7,Newly Renovated - Sea View Room with Balcony - King Bed,1674.0,418.5,0.0
+Palm Jumeirah - Luxe Infinity Pool I Direct Beach Access,Dubai,3994.0,8.9,16.3,One-Bedroom Superior Apartment,3994.0,998.5,0.0
+Gulf Oasis Hotel Apartments Fz LLC,Barsha Heights (Tecom),899.0,8.2,14.8,Studio Apartment,899.0,224.75,0.0
+Burj Khalifa view brand new luxury apartment Business Bay,Business Bay,942.0,8.2,2.1,Three-Bedroom Apartment,1108.0,235.5,14.98
+Manzil - 1BR District One Residences with Beach & Lagoon Access,Dubai,1328.0,9.8,4.5,One-Bedroom Apartment,1328.0,332.0,0.0
+ShoresInn - Waterfront in Heart of Dubai Marina,Dubai Marina,1539.0,9.0,18.6,One-Bedroom Apartment,1539.0,384.75,0.0
+"Modern Studio, Burj Views - Business Travelers",Business Bay,1349.0,9.0,2.1,Queen Studio,1349.0,337.25,0.0
+Fabulous 1-Bedroom Apartment Near JBR in Dubai Marina,Dubai Marina,1442.0,9.3,17.4,One-Bedroom Apartment,1442.0,360.5,0.0
+Staycae Holiday Homes - Aykon C,Business Bay,1499.0,7.6,2.6,Studio,1499.0,374.75,0.0
+Situated On the Famous JBR With Direct Beach Access,Jumeirah Beach Residence,1756.0,7.6,18.9,Apartment,1756.0,439.0,0.0
+Delightful 2BR apartment at Reva Residences,Business Bay,2262.0,8.7,1.3,Two-Bedroom Apartment,2262.0,565.5,0.0
+SUNRISE HOMES - Close to JBR Beach - Beautiful Studio,Dubai Marina,1063.0,9.4,17.9,One-Bedroom Apartment,1063.0,265.75,0.0
+Emaar Residences Dubai Marina by Qstay - Address Dubai Marina,Dubai Marina,2702.0,8.2,18.7,Studio with Balcony,2702.0,675.5,0.0
+Al Manara Luxury Maison Suite 1BR Near Jumeirah Beach,Beach & Coast,899.0,8.2,7.8,One-Bedroom Apartment,899.0,224.75,0.0
+Exclusive Rate 1BR with Partial Burj Khalifa Views by Deluxe Holiday Homes,Business Bay,1020.0,8.2,1.3,One-Bedroom Apartment,1020.0,255.0,0.0
+Palace Dubai Creek Harbour,Dubai Creek,1810.0,9.3,7.6,Deluxe Room King - Complimentary Lagoon Access,2414.0,452.5,25.02
+PineaPPLe XPress,Dubai Marina,806.0,7.3,17.2,Deluxe Double Room with Side Sea View,806.0,201.5,0.0
+Horizon Rooms JBR,Jumeirah Beach Residence,417.0,9.2,18.4,Single Room with Shared Bathroom,417.0,104.25,0.0
+"Four Points by Sheraton Production City, Dubai",Dubai Production City,746.0,8.7,19.7,"Standard King Bed, (Comp. Shuttle to DMCC Metro, Marina Mall & JBR, 20% off on F&B outlet)",746.0,186.5,0.0
+VOGO Grand Hotel Formerly Best Western Plus Hotel Dubai Academic City,Dubai,503.0,7.6,16.9,Standard Single Room Non Smoking,503.0,125.75,0.0
+Knight Castle Hotel - Formerly known as Carlton Palace Hotel,Deira,1227.0,7.0,8.8,Superior Double or Twin Room with 20% discount on F&B,1227.0,306.75,0.0
+Sonder Downtown Towers,Al Satwa,1636.0,8.5,1.4,Two-Bedroom Apartment with Balcony,1636.0,409.0,0.0
+Al Jaddaf Rotana Suite Hotel,Bur Dubai,1420.0,9.0,6.3,Twin Bed Room - City View,1420.0,355.0,0.0
+"Downtown Views 1BR - Dubai Mall, Fountain & Burj Khalifa access",Zabeel,2017.0,10.0,1.2,One-Bedroom Apartment,2017.0,504.25,0.0
+The Star @ JW Marriott Marina,Dubai Marina,2461.0,8.8,18.7,One-Bedroom Apartment,2461.0,615.25,0.0
+bnbmehomes - Palm Views,Palm Jumeirah,1126.0,7.1,16.4,Studio with Sea View,1443.0,281.5,21.97
+Ramada by Wyndham Dubai Deira,Deira,1253.0,7.9,9.7,"Queen Room - Non-Smoking, 20% off F&B",1253.0,313.25,0.0
+Oaks Liwa Heights Hotel Suites,Jumeirah Lakes Towers,1259.0,8.7,18.0,Premier One-Bedroom Suite,1259.0,314.75,0.0
+GOLD SKY AVENUE HOTEL,Deira,488.0,7.0,8.8,Standard Double Room,488.0,122.0,0.0
+Contemporary design apartment,Dubai Creek,1175.0,7.0,7.5,Apartment,1175.0,293.75,0.0
+Regal Studio at The Address Residences Dubai Marina by Deluxe Holiday Homes,Dubai Marina,1166.0,8.5,18.7,One-Bedroom Apartment,1166.0,291.5,0.0
+Meliá Desert Palm Member of Meliá Collection,International City,1545.0,9.2,17.8,Palm Deluxe Room,1931.0,386.25,19.99
+DAMAC Canal Views Residences,Business Bay,1374.0,7.5,1.4,One-Bedroom Suite with City View,1374.0,343.5,0.0
+City Avenue Al Reqqa Hotel,Deira,757.0,8.1,9.0,Standard Double or Twin Room,757.0,189.25,0.0
+A Fabulous 1 Bedroom Apartment in Marina Pinnacle,Dubai Marina,1192.0,9.7,17.2,One-Bedroom Apartment,1192.0,298.0,0.0
+Winds of the Canal by Lagom - Business Bay Dubai,Business Bay,1194.0,8.0,1.2,Studio Apartment,1194.0,298.5,0.0
+Exclusive GLOBALSTAY Apartments in Business Bay Free Parking & More!,Business Bay,1423.0,8.5,1.7,Studio Apartment,1674.0,355.75,14.99
+Snug Studio at Upside Living - Business Travel Ready 2209,Business Bay,1282.0,8.5,2.0,Deluxe Queen Studio,1282.0,320.5,0.0
+"High-Rise 1BR with Community View and Large Balcony Near the Parks, Binghatti Amber, Jumeirah Village Circle by Deluxe Holiday Homes",Dubai,1090.0,8.5,16.1,One-Bedroom Apartment,1090.0,272.5,0.0
+Chic 1BR at The Signature Downtown Dubai by Deluxe Holiday Homes,Downtown Dubai,1238.0,8.5,1.1,One-Bedroom Apartment,1238.0,309.5,0.0
+Peaceful 2 Bed Oasis Suite in JVC,Dubai,1250.0,8.5,18.0,Two-Bedroom Apartment,1250.0,312.5,0.0
+Silkhaus contemporary 1BDR with Downtown view in DIFC,Trade Centre,2254.0,8.6,1.5,Apartment,2254.0,563.5,0.0
+Deal of the Week Stylish 1BR with Partial Burj Views by Deluxe Holiday Homes,Business Bay,1126.0,7.0,1.7,One-Bedroom Apartment,1126.0,281.5,0.0
+"Luxury 1br Apt, Ultimate Comfort & Great Location",Dubai Marina,1202.0,9.3,18.2,One-Bedroom Apartment,1202.0,300.5,0.0
+Luxury Modern Apt in Dubai Marina - Close to Metro,Dubai Marina,1076.0,8.6,18.0,One-Bedroom Apartment,1076.0,269.0,0.0
+Majestic City Retreat Hotel,Bur Dubai,816.0,7.9,6.8,Economy Double or Twin Room,816.0,204.0,0.0
+"Jubilant Studio at Sky Gardens, DIFC by Deluxe Holiday Homes",Zabeel,967.0,7.9,2.1,Studio,967.0,241.75,0.0
+Executive Studio at Upside Living with Burj Views 2805,Business Bay,1281.0,6.0,2.1,Deluxe Queen Studio,1281.0,320.25,0.0
+Rose Plaza Hotel Al Barsha,Al Barsha,790.0,8.4,11.4,Classic King Room - Late check-out 2 pm,790.0,197.5,0.0
+Calm Studio at Sky Gardens DIFC by Deluxe Holiday Homes,Zabeel,952.0,7.0,2.1,Studio,952.0,238.0,0.0
+Fairmont Dubai,Trade Centre,1843.0,8.5,3.6,King Room,1843.0,460.75,0.0
+Airy Studio at Sky Gardens DIFC by Deluxe Holiday Homes,Zabeel,958.0,7.5,2.1,Studio,958.0,239.5,0.0
+Hues Boutique Hotel,Deira,631.0,7.0,10.5,Classic Room,631.0,157.75,0.0
+Breathtaking Sea and Palm View Spacious Studio with Vibrant Vibes in JBR By SWEET HOMES,Jumeirah Beach Residence,1319.0,9.5,18.4,One-Bedroom Apartment,1319.0,329.75,0.0
+Burj Khalifa View 1 Bedroom Apartment With Balcony For Up To 4 Person,Business Bay,2194.0,9.4,1.4,One-Bedroom Apartment,2926.0,548.5,25.02
+MENA Plaza Hotel Albarsha At The Mall,Al Barsha,682.0,8.6,11.5,"Deluxe King Smoking Room - 20% off F&B, Laundry and Spa",682.0,170.5,0.0
+"Mandarin Oriental Jumeira, Dubai",Jumeirah,4847.0,9.1,3.3,Superior King Room,4847.0,1211.75,0.0
+Ivory Grand Hotel Apartments,Al Barsha,744.0,7.6,11.5,Studio,744.0,186.0,0.0
+"1BR Apartment in Business Bay, Aykon City",Business Bay,1430.0,9.5,2.7,One-Bedroom Apartment,1430.0,357.5,0.0
+SUNRISE HOMES - A Modern Studio near JBR Beach,Dubai Marina,1162.0,9.5,18.0,Queen Studio,1162.0,290.5,0.0
+Chic Studio in The Address Residence Dubai Marina by Deluxe Holiday Homes,Dubai Marina,1175.0,9.0,18.7,Studio,1175.0,293.75,0.0
+Silkhaus palm view 1BDR with private beach in Emaar Beachfront,Palm Jumeirah,1692.0,7.8,17.3,Apartment,1692.0,423.0,0.0
+"Iconic Living - 2BR Apartment in Cayan Tower, Dubai Marina",Dubai Marina,1100.0,9.0,17.6,Two-Bedroom Standard Apartment,1100.0,275.0,0.0
+Luxury Studio Apartments Business Bay With Balcony and Free parking by Belvilla,Business Bay,323.0,1.0,1.9,One-Bedroom House,577.0,80.75,44.02
+Waldorf Astoria Dubai International Financial Centre,Trade Centre,2818.0,9.4,2.0,Deluxe King Room,2818.0,704.5,0.0
+Holiday Inn & Suites - Dubai Science Park by IHG,Al Barsha,648.0,8.8,13.5,Standard King Room,648.0,162.0,0.0
+Luxurious one bedroom Apartment with Burj Khalifa View,Downtown Dubai,1610.0,9.9,400.0,One-Bedroom Apartment,1610.0,402.5,0.0
+Contemporary 1BR at Vera Tower Business Bay by Deluxe Holiday Homes,Business Bay,931.0,6.0,1.4,One-Bedroom Apartment,931.0,232.75,0.0
+Special Offer Stylish 1BR with Pool & City Views by Deluxe Holiday Homes,Zabeel,967.0,6.8,2.1,Studio,967.0,241.75,0.0
+Tranquil Studio at The Anwa By Omniyat Dubai Maritime City by Deluxe Holiday Homes,Bur Dubai,847.0,8.1,8.3,Studio,847.0,211.75,0.0
+Stylish 1BD in Al Barsha w/ Great View and Jacuzzi,Al Barsha,843.0,8.1,14.1,One-Bedroom Apartment,843.0,210.75,0.0
+Trendy 1-Bedroom Apartment for 4 in Business Bay,Business Bay,1129.0,10.0,1.9,One-Bedroom Apartment,1129.0,282.25,0.0
+Luxury 1 Bedroom On Marina Walk,Dubai Marina,1665.0,9.5,19.5,One-Bedroom Apartment,1665.0,416.25,0.0
+Frank Porter - Marina Views T1,Dubai Marina,1197.0,9.0,18.4,Studio,1197.0,299.25,0.0
+Nas House Private Villas,Al Barsha,1591.0,8.7,11.9,Twin Room with Shared Bathroom,1591.0,397.75,0.0
+VayK - Great 1-Bedroom Apartment in JBR,Jumeirah Beach Residence,1511.0,8.7,19.3,Apartment,1511.0,377.75,0.0
+Wyndham Residences The Palm,Palm Jumeirah,1962.0,8.6,18.4,Deluxe Studio with Private Beach Access,1962.0,490.5,0.0
+Dubai Marina Royal Premium Serviced Apartments Marina Wharf - KIDS STAY FREE plus free check in 24 hours,Dubai Marina,1237.0,8.6,19.6,Apartment,1237.0,309.25,0.0
+Stylish & Lively 1BDR in Marina Quay,Dubai Marina,608.0,8.6,19.1,One-Bedroom Apartment,608.0,152.0,0.0
+Lotus Grand Hotel,Deira,451.0,6.1,9.0,Deluxe Double or Twin Room,518.0,112.75,12.93
+FORTUNE ATRIUM HOTEL,Bur Dubai,486.0,7.7,7.3,Standard Double Room,540.0,121.5,10.0
+Modern Executive Studio at Upside Living,Business Bay,1504.0,7.7,2.1,Deluxe Queen Studio,1504.0,376.0,0.0
+SUNRISE HOMES - A Cozy Studio next to JBR Beach,Jumeirah Beach Residence,1013.0,9.5,18.0,One-Bedroom Apartment,1013.0,253.25,0.0
+Apartment With 2 Bedroom In Financial Center Rd 109 - Dubai,Zabeel,1422.0,9.5,1.2,Two-Bedroom Apartment,1422.0,355.5,0.0
+"Super Host at Highest Residential Tower in the world, Private Rooms in a Shared apartment",Dubai Marina,994.0,9.1,17.3,Queen Room with Pool View,994.0,248.5,0.0
+Modern Elegance in Downtown 1BR with Luxe Decor by Petals Holiday Homes,Downtown Dubai,1108.0,8.0,400.0,One-Bedroom Apartment,1108.0,277.0,0.0
+Luxury Stay at Forte Emaar - 5 Min Walk to Burj,Downtown Dubai,1418.0,9.3,350.0,One-Bedroom Apartment,1418.0,354.5,0.0
+Creston Suites The Dubai Mall Residences,Downtown Dubai,1203.0,7.7,0.7,King Studio,1203.0,300.75,0.0
+bnbmehomes - Damac Hills - Carson Tower,Dubai,714.0,8.5,19.2,Studio Apartment,840.0,178.5,15.0
+Skyline 20th 1br With Stunning Burj Khalifa View,Business Bay,1474.0,6.8,1.4,One-Bedroom Apartment,1602.0,368.5,7.99
+Opulent Studio at Sky Gardens DIFC by Deluxe Holiday Homes,Zabeel,965.0,7.0,2.1,Studio,965.0,241.25,0.0
+Apartment With 1 Bedroom In Meydan One - Nad Al Sheba 1 - Dubai,Dubai,867.0,7.0,4.3,One-Bedroom Apartment,867.0,216.75,0.0
+Affordable Luxury Modern 1BR with Pool & Balcony by Deluxe Holiday Homes,Zabeel,944.0,7.0,2.1,Studio,944.0,236.0,0.0
+Carlton Tower Hotel,Deira,852.0,8.4,8.7,Budget Single Room,852.0,213.0,0.0
+Majestic Premier Hotel Burdubai,Bur Dubai,842.0,8.5,7.4,"Classic Room, 1 King",842.0,210.5,0.0
+Apartment With 1 Bedroom In Mohammed Bin Rashid - Dubai,Dubai,867.0,8.5,4.1,One-Bedroom Apartment,867.0,216.75,0.0
+Silkhaus stunning 1BDR with access to Souq Al Bahar in Downtown,Downtown Dubai,1301.0,5.2,450.0,Apartment,1301.0,325.25,0.0
+The Burj Khalifa Suite Luxury 2-bed in Burj Royale,Downtown Dubai,3461.0,9.9,0.9,Two-Bedroom Deluxe Apartment with Balcony,3461.0,865.25,0.0
+Homey Upgraded 1BDR apartment Th8 w Beach Access,Palm Jumeirah,2953.0,9.7,18.5,Apartment,2953.0,738.25,0.0
+Sunny Studio at Sky Gardens DIFC by Deluxe Holiday Homes,Zabeel,949.0,6.7,2.1,Studio,949.0,237.25,0.0
+Luxury 1 Bedroom Burj Khalifa Downtown,Downtown Dubai,1295.0,9.1,450.0,One-Bedroom Apartment,1295.0,323.75,0.0
+Nice 2 bedroom apartment-minimum 5 night,Dubai Marina,1532.0,8.9,19.6,Two-Bedroom Apartment,1532.0,383.0,0.0
+"The Manor By JA, Dubai",Dubai,833.0,8.4,23.6,Simplicity,1041.0,208.25,19.98
+Modern studio in Arjan - Dubai,Al Barsha,596.0,9.7,14.9,One-Bedroom Apartment,596.0,149.0,0.0
+Available for 4 people 1BR near Burj Khalifa,Business Bay,801.0,9.7,1.3,One-Bedroom Apartment,801.0,200.25,0.0
+Urban Charm: Luxe 1BR Haven Near Downtown Dubai,Dubai,1515.0,9.7,4.2,One-Bedroom Apartment,1515.0,378.75,0.0
+"Renaissance Business Bay Hotel, Dubai",Business Bay,1208.0,8.9,1.4,"Superior King Room with City View (Complimentary Shuttle to Dubai Mall, Metro & La Mer Beach)",1208.0,302.0,0.0
+AWS Holiday Homes - Unique Views at Damac Heights,Dubai Marina,3089.0,8.2,17.5,Two-Bedroom Apartment,3089.0,772.25,0.0
+"Fully-equipped studio Palm Jumeirah, Seven",Palm Jumeirah,1841.0,10.0,16.4,King Studio,1841.0,460.25,0.0
+The Leela Hotel,Deira,511.0,5.9,8.7,Superior King Room,511.0,127.75,0.0
+Rove Expo City,Dubai World Central,1037.0,9.2,28.9,Cosy Rover Room,1037.0,259.25,0.0
+Silkhaus Elite 1BDR at Binghatti Venus in JVC,Dubai,1068.0,9.2,17.6,Apartment,1068.0,267.0,0.0
+Escape 24 Modern Studio at Damac Maison Prive in Heart of Business Bay,Business Bay,1006.0,9.0,1.2,Studio Apartment,1006.0,251.5,0.0
+Ibis Al Rigga,Deira,547.0,7.8,9.2,Standard Double Room,547.0,136.75,0.0
+"La Buena Vida Holiday Homes - Luxe 1BD, boutique apt full lakeview 1m to Metro, Lake & Almas Tower",Jumeirah Lakes Towers,1869.0,9.3,19.3,One-Bedroom Deluxe Apartment,1869.0,467.25,0.0
+Upgraded Cozy 1BR at Bahar with great view,Beach & Coast,883.0,9.0,18.9,One-Bedroom Apartment,883.0,220.75,0.0
+"TIME Grand Plaza Hotel, Dubai Airport",Al Qusais,608.0,8.4,13.7,Executive Twin Room,608.0,152.0,0.0
+Luma Escape Dubai,Dubai,852.0,8.5,15.8,One-Bedroom Apartment,852.0,213.0,0.0
+Vida Creek Beach Hotel,Dubai Creek,1657.0,9.4,7.8,Deluxe Room Twin,1657.0,414.25,0.0
+Chic 1BR Apartment at Collective 2 Tower A Dubai Hills by Deluxe Holiday Homes,Dubai,1089.0,10.0,9.3,One-Bedroom Apartment,1089.0,272.25,0.0
+Luxury Interior Studio with Direct Burj Khalifa Views in the Heart of Dubai,Dubai,964.0,9.0,3.5,Studio Apartment with Balcony,964.0,241.0,0.0
+"Elegant 1BR in 5242 Tower 1, Dubai Marina by Deluxe Holiday Homes",Dubai Marina,1475.0,9.0,20.3,One-Bedroom Apartment,1475.0,368.75,0.0
+Premier Inn Dubai Silicon Oasis,Dubai Silicon Oasis,383.0,8.3,13.0,Double Room - Non Smoking - Free Shuttle to Metro 4x Daily,383.0,95.75,0.0
+City center with Burj View!,Downtown Dubai,1670.0,9.5,1.0,Deluxe One-Bedroom Apartment with City View,1670.0,417.5,0.0
+Radisson Dubai Damac Hills,Dubai,802.0,8.7,19.7,Standard Room,802.0,200.5,0.0
+Luxurious one bedroom Apartment,Business Bay,2428.0,8.7,0.8,One-Bedroom Apartment,2428.0,607.0,0.0
+Luxurious 2-bedroom Apartment in Downtown with Burj Khalifa View,Downtown Dubai,2522.0,9.6,400.0,Two-Bedroom Apartment,2522.0,630.5,0.0
+GuestReady - Marina Walk View at JW Marriott,Dubai Marina,4479.0,9.9,18.7,Apartment,4479.0,1119.75,0.0
+Luxury & Stylish Studio - JVC,Dubai,1387.0,9.9,16.9,One-Bedroom Apartment,1387.0,346.75,0.0
+Sophisticated 1BR with Pool View in Belgravia Square JVC,Dubai,1411.0,9.0,16.3,Superior One-Bedroom Apartment with Balcony,1411.0,352.75,0.0
+GuestReady - Splendid Stay in Dubai Marina,Dubai Marina,3043.0,9.2,18.1,Apartment,3043.0,760.75,0.0
+Classic Capsule Holiday Homes,Bur Dubai,28.0,4.5,7.2,One-Bedroom House,28.0,7.0,0.0
+Signature Inn Hotel Deira,Deira,341.0,5.0,9.3,Deluxe King Room,341.0,85.25,0.0
+Breathtaking Sea View Apartment,Jumeirah Beach Residence,1958.0,9.7,19.7,Apartment,1958.0,489.5,0.0
+Star Metro Deira Hotel Apartments,Deira,1056.0,7.8,9.8,One bedroom King Apartment,1056.0,264.0,0.0
+PRIVACASA - Vida Residences Creek Beach 901,Dubai Creek,1785.0,9.5,7.8,Two-Bedroom Apartment,1785.0,446.25,0.0
+FIVE Jumeirah Village,Dubai,1704.0,9.1,17.0,Superior,1704.0,426.0,0.0
+Towers Rotana - Dubai,Trade Centre,1752.0,8.4,2.0,Guest Room - King Bed,1752.0,438.0,0.0
+Graceful 1BR at Park Heights Dubai Hills MBR City by Deluxe Holiday Homes,Dubai,1187.0,9.5,9.5,One-Bedroom Apartment,1187.0,296.75,0.0
+Bright 1BR with balcony in Luma 22,Dubai,914.0,7.8,15.8,One-Bedroom Apartment,914.0,228.5,0.0
+Stylish Studio in Business Bay Close to Burj Khal,Business Bay,1195.0,7.8,1.1,Studio,1195.0,298.75,0.0
+"Th8 Palm Dubai Beach Resort, Vignette Collection by IHG",Palm Jumeirah,1742.0,8.5,18.5,Deluxe King Room,1742.0,435.5,0.0
+Elegant Studio - Golf Views - Sports City - Dubai,Dubai,673.0,9.5,18.4,Studio Apartment,673.0,168.25,0.0
+Edge Creekside Hotel,Deira,1213.0,8.9,8.7,Deluxe King Room,1213.0,303.25,0.0
+"Luxury Studio Apartment in Prive By Damac B, Business Bay by Deluxe Holiday Homes",Business Bay,971.0,8.9,1.3,Studio,971.0,242.75,0.0
+Millennium Place Mirdif,Dubai,773.0,8.1,17.3,Studio with Kitchen,773.0,193.25,0.0
+Soothing Studio Getaway In Marquise Square -Business Bay,Business Bay,842.0,8.1,1.2,Studio,842.0,210.5,0.0
+Elegant Studio Apartment In Meydan One,Dubai,743.0,10.0,4.6,Single Room,743.0,185.75,0.0
+Ritz Carlton Residences DIFC Downtown Dubai,Trade Centre,3976.0,8.9,2.1,One-Bedroom Apartment,3976.0,994.0,0.0
+Kasco Homes Waves Tower Business Bay,Business Bay,1799.0,8.6,1.7,One-Bedroom Suite,1799.0,449.75,0.0
+Capitol Hotel Jumeirah Dubai,Beach & Coast,663.0,6.6,5.2,Standard Double Room,663.0,165.75,0.0
+Elegant studio in a calm fully serviced community,Dubai,621.0,6.6,3.7,Deluxe Queen Studio,621.0,155.25,0.0
+GuestReady - Opulent Residence in Dubai Marina,Dubai Marina,4210.0,9.1,19.4,Apartment,4210.0,1052.5,0.0
+Jumeira Rotana – Dubai,Beach & Coast,902.0,7.8,4.7,Guest Room - Twin Bed,902.0,225.5,0.0
+Burj Khalifa Views 2BR with Infinity Pool Downtown,Business Bay,3237.0,9.0,0.8,Two-Bedroom Apartment,3237.0,809.25,0.0
+Icon Delux Hotel Apartments Al Barsha - Formerly Abidos,Al Barsha,842.0,8.8,11.5,Deluxe One-Bedroom Apartment,842.0,210.5,0.0
+"Bulgari Resort, Dubai",Jumeirah,6626.0,9.4,4.0,Superior King Guest Room with Balcony,6626.0,1656.5,0.0
+Vida Creek Harbour,Dubai Creek,1418.0,9.1,7.3,City View Deluxe Room King - Free Shuttle to Dubai Mall & La Mer Beach,1418.0,354.5,0.0
+"Luxury Living , Beautiful Layout",Business Bay,947.0,9.1,1.2,One-Bedroom Apartment,947.0,236.75,0.0
+Frank Porter - Zada Tower,Business Bay,1437.0,10.0,1.6,Apartment,1437.0,359.25,0.0
+Jovial 1BR at Collective Tower 2 Mohammed Bin Rashid City by Deluxe Holiday Homes,Dubai,1089.0,9.0,9.3,One-Bedroom Apartment,1089.0,272.25,0.0
+Luxurious New Studio! 2 Double Beds! Sleek Design & High-End Amenities in Dubai Downtown,Downtown Dubai,2712.0,8.6,1.0,One-Bedroom Apartment with Balcony,2712.0,678.0,0.0
+FAM Living - RP Heights - 3 Mins Walk to Burj Khalifa & Dubai Mall Downtown Dubai,Downtown Dubai,1721.0,8.5,1.2,Deluxe One-Bedroom Apartment,1721.0,430.25,0.0
+Holiday Inn Dubai Al-Maktoum Airport by IHG,Dubai World Central,587.0,7.8,38.6,Standard Room,587.0,146.75,0.0
+Elegant furnished 1BR Apartment in Princess Tower By Bhavan Vacation Homes,Dubai Marina,1710.0,9.1,17.3,One-Bedroom Apartment,1710.0,427.5,0.0
+Apartment With 1 Bedroom In Marina Torch - Al Marsa St - Dubai,Dubai Marina,1460.0,9.1,17.3,Two-Bedroom Apartment,1460.0,365.0,0.0
+Frank Porter - Majestine 1,Business Bay,1504.0,8.5,1.4,Apartment,1504.0,376.0,0.0
+"Grande Apartment 1 Bedroom With Amazing pool, gym and Location",Downtown Dubai,4253.0,8.7,30.0,One-Bedroom Apartment with Balcony and City View,4253.0,1063.25,0.0
+Sea View Hotel Dubai,Bur Dubai,571.0,7.6,6.8,Deluxe Room,571.0,142.75,0.0
+OYO HOME 1407 One Bedroom Apartments Binghatti Emerald,Dubai,513.0,7.6,16.5,One-Bedroom Apartment,513.0,128.25,0.0
+Vida Dubai Mall,Downtown Dubai,2573.0,9.0,1.1,Deluxe Room King City View,3217.0,643.25,20.02
+Vendome Plaza Hotel,Deira,703.0,6.7,8.9,Standard King Room,703.0,175.75,0.0
+"Emaar Residences Fashion Avenue, formerly Address Dubai Mall",Downtown Dubai,2401.0,7.5,0.6,One-bedroom Apartment with Downtown View,2401.0,600.25,0.0
+Ascot Hotel,Bur Dubai,767.0,6.8,7.4,Deluxe Room,767.0,191.75,0.0
+ME Dubai by Meliá,Business Bay,2060.0,9.0,0.9,Always ME,2575.0,515.0,20.0
+Pearl Swiss Hotel,Deira,597.0,7.3,9.0,Superior King Room,597.0,149.25,0.0
+White Sage Stunning New Studio in Marina,Dubai Marina,807.0,8.0,18.2,One-Bedroom Apartment,850.0,201.75,5.06
+Landmark Summit Hotel,Deira,508.0,7.3,9.0,Deluxe Double - King,508.0,127.0,0.0
+"Hotel Boulevard, Autograph Collection",Downtown Dubai,2575.0,9.1,0.6,Deluxe King Room,2575.0,643.75,0.0
+Ahlan Premium Luxury Marina Cityview JBR,Jumeirah Beach Residence,1311.0,8.8,19.1,Family Room with Private Bathroom,1311.0,327.75,0.0
+Frank Porter - Aykon City Tower,Business Bay,1526.0,8.0,2.7,Apartment,1526.0,381.5,0.0
+Dubai Scenic Infinity Pool with Burj Khalifa Views,Business Bay,3039.0,8.4,0.8,One-Bedroom Apartment with Balcony,3039.0,759.75,0.0
+Frank Porter - Damac Prive B,Business Bay,1178.0,7.1,1.2,Studio,1178.0,294.5,0.0
