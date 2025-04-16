@@ -44,4 +44,5 @@ Manually tracking hotel prices is tedious. By scraping hotel listings from [Book
    - Open `predict.ipynb` in Jupyter Notebook  
    - Enter your input values in the provided template  
    - Run the cells to get the **predicted hotel price**
-No need to retrain the model — just plug in your data and get predictions instantly!
+
+No need to retrain the model, just plug in your data and get predictions instantly!
